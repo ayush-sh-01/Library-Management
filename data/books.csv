@@ -1,0 +1,1101 @@
+id,title,author,isbn,category,available
+B0001,Practical Secrets (Vol. 1),Jennifer Miller,978-2-43-7706-2,Mathematics,true
+B0002,Ultimate Systems,Thomas Martinez,978-1-53-8843-4,Business,true
+B0003,Practical Secrets (Vol. 2),Linda Davis,978-4-48-7481-5,Chemistry,true
+B0004,Mastering Systems,Robert White,978-4-89-9979-5,History,true
+B0005,Advanced Future,Susan Smith,978-8-4-6866-7,Fiction,true
+B0006,Ancient Journey,Karen Taylor,978-4-26-8771-5,Literature,true
+B0007,Computational Database,Susan Wilson,978-7-5-9203-7,Biography,true
+B0008,Introduction to Whispers,John Garcia,978-6-30-6114-5,Literature,true
+B0009,Forgotten Universe,Karen Brown,978-3-24-9980-4,Computer Science,true
+B0010,Ultimate Systems (Vol. 2),Elizabeth Davis,978-4-47-2528-1,Chemistry,true
+B0011,Modern Dreams,Jessica Davis,978-6-93-2742-2,Fiction,true
+B0012,Quantum Systems (Vol. 2),John Taylor,978-8-85-2470-0,Engineering,true
+B0013,Introduction to History,Susan Garcia,978-4-8-7739-5,Engineering,true
+B0014,Silent Principles,Jessica Johnson,978-3-64-5845-5,Physics,true
+B0015,Dark Journey (Vol. 3),David Miller,978-6-41-2931-2,Physics,true
+B0016,Hidden Engines (Vol. 2),Mary Taylor,978-3-25-7591-2,Literature,true
+B0017,Ancient Database,Thomas Miller,978-3-6-6371-0,Business,true
+B0018,Quantum Chemistry,Patricia Thomas,978-3-84-3644-3,Engineering,true
+B0019,Global Art,Joseph Smith,978-3-34-2489-4,History,true
+B0020,Hidden Database,Patricia Moore,978-8-34-4568-3,Fiction,true
+B0021,Silent Networks (Vol. 1),Sarah Thompson,978-6-72-5193-7,Computer Science,true
+B0022,Silent Chronicles,Barbara Martinez,978-3-84-1627-5,Computer Science,true
+B0023,Mastering Networks (Vol. 1),Susan Moore,978-2-87-8520-4,Engineering,true
+B0024,Forgotten Whispers,Linda Miller,978-2-0-1809-5,Computer Science,true
+B0025,Ancient Dreams (Vol. 1),Michael Brown,978-7-40-3350-6,Chemistry,true
+B0026,Beautiful Chemistry (Vol. 1),David Smith,978-0-13-6530-2,Chemistry,true
+B0027,Introduction to Future,Linda Wilson,978-3-3-0621-0,Fiction,true
+B0028,Practical Chemistry,Charles Jones,978-8-11-9032-7,Fiction,true
+B0029,Modern Whispers (Vol. 1),Elizabeth Rodriguez,978-0-23-0005-6,Mathematics,true
+B0030,Advanced Networks,Thomas Martin,978-7-1-3508-2,Literature,true
+B0031,Ancient Principles,William Williams,978-6-66-4070-6,Chemistry,true
+B0032,Lost Universe (Vol. 2),Richard Garcia,978-4-35-6416-3,Mathematics,true
+B0033,Designing Patterns (Vol. 3),James Moore,978-0-88-3525-2,Business,true
+B0034,Silent Engines (Vol. 1),Richard Taylor,978-1-12-8654-2,Biography,true
+B0035,Ancient Journey (Vol. 3),Elizabeth Moore,978-2-54-5849-6,Computer Science,true
+B0036,Computational Art,Charles Thomas,978-7-38-3717-7,Computer Science,true
+B0037,Introduction to Art (Vol. 1),William Garcia,978-1-11-9292-0,Fiction,true
+B0038,Lost Engines (Vol. 1),Joseph Thomas,978-2-70-6124-7,Business,true
+B0039,Forgotten Database,James Hernandez,978-5-36-9146-6,Engineering,true
+B0040,Advanced Journey (Vol. 1),Charles Smith,978-8-20-3370-4,Physics,true
+B0041,Hidden Physics,Karen White,978-3-24-8367-8,Literature,true
+B0042,Digital Patterns,Thomas Davis,978-0-90-5562-0,Business,true
+B0043,Silent Science (Vol. 1),Linda Davis,978-6-9-2632-3,Chemistry,true
+B0044,Forgotten Patterns,Joseph Jones,978-1-81-0089-1,Physics,true
+B0045,Advanced Chronicles,Jessica Jones,978-4-74-2062-4,History,true
+B0046,Forgotten Art (Vol. 1),Jessica Rodriguez,978-4-20-5382-3,Computer Science,true
+B0047,Modern Science (Vol. 1),Joseph Williams,978-4-85-0002-0,Biography,true
+B0048,Modern Dreams (Vol. 2),Joseph Martinez,978-6-78-7915-5,Biography,true
+B0049,Golden Whispers,Charles Taylor,978-2-22-1969-7,Engineering,true
+B0050,Lost Dreams,Susan Rodriguez,978-6-18-2987-6,Mathematics,true
+B0051,Ancient Legends,Joseph Williams,978-5-7-7755-8,Computer Science,true
+B0052,Mastering Engines,Patricia Davis,978-4-76-3325-8,Fiction,true
+B0053,Hidden Patterns,John Wilson,978-7-22-7359-8,Biography,true
+B0054,Forgotten Future,John Davis,978-8-95-8489-4,Physics,true
+B0055,Designing Algorithms (Vol. 2),William Williams,978-1-22-0809-8,Computer Science,true
+B0056,Golden Art,Karen Williams,978-6-89-7219-4,Literature,true
+B0057,Global Chemistry,William Garcia,978-4-38-4770-6,Engineering,true
+B0058,Practical Whispers,Charles Garcia,978-3-13-1375-1,Literature,true
+B0059,Computational Chronicles,James Moore,978-5-14-4559-1,Mathematics,true
+B0060,Global Algorithms,William Johnson,978-3-40-3268-1,Mathematics,true
+B0061,Forgotten Journey,Barbara Garcia,978-6-29-1219-0,Engineering,true
+B0062,Designing Science (Vol. 2),Linda Wilson,978-1-13-2649-0,Business,true
+B0063,Introduction to Science (Vol. 1),Robert Anderson,978-1-53-1319-2,Biography,true
+B0064,Hidden Legends,William Martin,978-5-60-6859-2,Physics,true
+B0065,Global Chronicles (Vol. 2),William Rodriguez,978-5-91-2550-1,Literature,true
+B0066,Ultimate Algorithms,Elizabeth Martin,978-8-91-9700-4,Physics,true
+B0067,Digital Art,Robert White,978-4-90-2532-4,History,true
+B0068,Digital Database (Vol. 2),David Moore,978-0-52-0222-3,Chemistry,true
+B0069,Global Physics,Michael Martinez,978-5-32-0858-5,Literature,true
+B0070,Lost Chemistry (Vol. 2),Joseph Garcia,978-7-9-8610-3,Physics,true
+B0071,Silent Systems (Vol. 1),Mary Brown,978-8-9-1758-1,Biography,true
+B0072,Golden Patterns,Mary Thomas,978-8-19-4549-8,Engineering,true
+B0073,Dark Art (Vol. 2),Karen Rodriguez,978-1-68-1681-2,Computer Science,true
+B0074,Practical Dreams (Vol. 2),James White,978-1-20-8366-8,Mathematics,true
+B0075,Dark Dreams,Richard Hernandez,978-6-91-1831-4,History,true
+B0076,Computational Chronicles (Vol. 2),Sarah Smith,978-1-3-4351-8,Business,true
+B0077,Silent Physics (Vol. 2),Thomas Miller,978-8-44-1740-1,Literature,true
+B0078,Advanced Systems (Vol. 2),Charles Johnson,978-1-76-1072-0,Mathematics,true
+B0079,Global Future,Barbara Miller,978-2-62-3025-6,Computer Science,true
+B0080,Ultimate History,Patricia Garcia,978-8-68-2419-6,Biography,true
+B0081,Forgotten Science (Vol. 2),Thomas Thompson,978-6-86-4614-5,Business,true
+B0082,Hidden Algorithms (Vol. 2),Richard Rodriguez,978-3-63-8406-3,Computer Science,true
+B0083,Quantum Principles,John Williams,978-1-86-4271-5,History,true
+B0084,Practical Secrets,Jessica Moore,978-3-24-6989-1,Physics,true
+B0085,Lost Legends (Vol. 1),Jessica Jackson,978-2-4-3780-6,Business,true
+B0086,Hidden Universe,William Smith,978-3-14-0966-2,Physics,true
+B0087,Ancient History (Vol. 3),James Taylor,978-4-18-0818-3,Fiction,true
+B0088,Golden Engines,Barbara Jones,978-0-71-1488-0,Business,true
+B0089,Silent Algorithms (Vol. 1),Charles Johnson,978-6-92-0529-8,Literature,true
+B0090,Mastering Algorithms (Vol. 2),Joseph Smith,978-3-9-2637-6,Engineering,true
+B0091,Global Patterns,Jennifer Miller,978-6-56-2949-7,History,true
+B0092,Quantum Whispers (Vol. 1),Patricia Jones,978-1-19-1912-5,Computer Science,true
+B0093,Beautiful Whispers (Vol. 2),James Hernandez,978-2-29-3200-2,Chemistry,true
+B0094,Mastering Dreams,Patricia Miller,978-7-71-0918-6,Physics,true
+B0095,Hidden Science,Charles Jones,978-4-82-5471-0,Mathematics,true
+B0096,Designing Systems (Vol. 2),Elizabeth Williams,978-4-74-3239-1,Business,true
+B0097,Global Whispers,Jessica Wilson,978-2-9-2565-5,Biography,true
+B0098,Forgotten Secrets,Richard Martin,978-5-80-7275-1,Business,true
+B0099,Silent Dreams,Thomas Martinez,978-8-85-6064-4,Chemistry,true
+B0100,Introduction to Universe,Patricia Jackson,978-1-49-2384-8,Chemistry,true
+B0101,Golden Legends,Jessica Smith,978-2-77-7482-7,Engineering,true
+B0102,Digital Secrets (Vol. 2),Barbara Smith,978-0-27-1648-7,Chemistry,true
+B0103,Quantum Patterns (Vol. 2),Charles Martinez,978-3-4-2715-3,Computer Science,true
+B0104,Dark Art,Richard White,978-4-72-9177-6,Biography,true
+B0105,Mastering Journey,Robert Taylor,978-1-55-2247-7,Fiction,true
+B0106,Digital Networks,Thomas White,978-6-74-4014-5,Computer Science,true
+B0107,Global Science,Barbara Hernandez,978-7-44-3359-8,History,true
+B0108,Silent Algorithms (Vol. 2),Linda Miller,978-5-85-7122-2,Mathematics,true
+B0109,Forgotten Networks (Vol. 1),Charles Thomas,978-3-34-0579-3,History,true
+B0110,Ancient Chronicles,Sarah Thompson,978-4-38-8047-6,Engineering,true
+B0111,Lost Journey,David Martinez,978-8-95-6887-6,Computer Science,true
+B0112,Ancient Engines,James Hernandez,978-7-15-3819-6,Engineering,true
+B0113,Silent Physics (Vol. 3),David Martinez,978-7-32-5249-6,Fiction,true
+B0114,Golden Dreams (Vol. 1),Joseph Brown,978-8-88-1110-4,Computer Science,true
+B0115,Silent Physics,Thomas Thomas,978-6-16-7348-1,Biography,true
+B0116,Computational Engines,Jennifer Jackson,978-5-69-9337-6,Fiction,true
+B0117,Ultimate Secrets (Vol. 1),Patricia Anderson,978-3-98-0194-6,Business,true
+B0118,Beautiful Universe,Mary Garcia,978-0-24-9714-0,Fiction,true
+B0119,Computational Science,William Martinez,978-5-42-0898-7,Computer Science,true
+B0120,Lost Chemistry,David Jackson,978-5-83-3053-6,History,true
+B0121,Silent Universe (Vol. 2),Jessica Miller,978-6-15-6922-8,Biography,true
+B0122,Ultimate Dreams (Vol. 3),Charles Taylor,978-2-16-9644-3,Mathematics,true
+B0123,Forgotten Engines,James Miller,978-7-41-3374-0,Fiction,true
+B0124,Lost Chronicles,Robert Thomas,978-7-89-3295-3,Engineering,true
+B0125,Ultimate Legends (Vol. 1),Mary Thompson,978-0-77-2353-5,Literature,true
+B0126,Ancient Legends (Vol. 1),James Thompson,978-0-2-4225-6,Literature,true
+B0127,Ancient Journey (Vol. 1),Robert Taylor,978-5-10-8736-6,Computer Science,true
+B0128,Forgotten Systems,John Miller,978-3-22-9739-8,Chemistry,true
+B0129,Beautiful Patterns (Vol. 3),Mary Thomas,978-0-7-8799-7,Biography,true
+B0130,Ultimate Science,Michael Thompson,978-1-10-1383-2,Literature,true
+B0131,Silent Chemistry (Vol. 2),Charles Johnson,978-6-26-4294-0,Biography,true
+B0132,Ultimate Physics (Vol. 2),Susan Jones,978-7-85-3922-7,Business,true
+B0133,Computational Universe,Richard Anderson,978-8-79-6082-1,Engineering,true
+B0134,Advanced Science (Vol. 2),Mary Hernandez,978-7-28-9178-0,History,true
+B0135,Practical Dreams,Susan Smith,978-1-39-2244-5,Biography,true
+B0136,Ultimate Principles (Vol. 2),Thomas Jones,978-4-23-5413-1,Engineering,true
+B0137,Designing Physics (Vol. 1),Mary Davis,978-2-1-6559-2,Mathematics,true
+B0138,Hidden Algorithms (Vol. 3),Barbara Thompson,978-2-76-5658-7,Mathematics,true
+B0139,Digital Chronicles (Vol. 1),Linda Martin,978-8-13-8034-2,Literature,true
+B0140,Digital History (Vol. 3),Sarah Thomas,978-1-46-9279-0,Physics,true
+B0141,Forgotten Principles,Susan Johnson,978-6-69-8680-5,Business,true
+B0142,Beautiful Dreams,Sarah Davis,978-5-87-5538-7,Chemistry,true
+B0143,Computational Chemistry,Charles Jones,978-4-2-7845-0,Computer Science,true
+B0144,Dark Chemistry,William Brown,978-7-44-5872-6,Engineering,true
+B0145,Dark Chronicles (Vol. 1),Charles Martin,978-2-4-3901-0,History,true
+B0146,Practical Universe,Mary Miller,978-6-46-0364-1,Physics,true
+B0147,Lost Future,James Miller,978-6-50-4859-7,Mathematics,true
+B0148,Quantum Engines,Robert Wilson,978-2-5-3986-5,Business,true
+B0149,Mastering Algorithms,Robert Miller,978-7-86-5480-8,Fiction,true
+B0150,Ultimate Database,Robert Thompson,978-5-52-7387-7,History,true
+B0151,Lost History (Vol. 2),Susan Williams,978-1-19-0123-2,Computer Science,true
+B0152,Quantum Secrets,Barbara Miller,978-5-82-2422-2,Mathematics,true
+B0153,Forgotten Dreams,Susan White,978-2-0-8361-8,Engineering,true
+B0154,Introduction to Dreams (Vol. 3),Michael Brown,978-6-70-1710-6,Chemistry,true
+B0155,Practical Legends,Richard Jackson,978-3-19-0199-6,Business,true
+B0156,Hidden Networks (Vol. 2),Karen Johnson,978-3-84-7480-2,Physics,true
+B0157,Silent Legends,Richard Wilson,978-1-81-1398-1,Literature,true
+B0158,Mastering Legends,Karen Davis,978-3-3-9812-4,Biography,true
+B0159,Beautiful Physics (Vol. 3),James Johnson,978-6-52-0071-6,Physics,true
+B0160,Forgotten Algorithms,Patricia Martin,978-7-44-4183-8,Engineering,true
+B0161,Golden Chemistry,James Davis,978-4-34-5205-2,Mathematics,true
+B0162,Advanced Engines,Richard White,978-6-10-9294-8,Business,true
+B0163,Designing Dreams,Sarah Taylor,978-2-56-9566-3,Physics,true
+B0164,Ultimate Science (Vol. 2),John Jones,978-3-56-8221-3,History,true
+B0165,Quantum Database,William Williams,978-2-84-3159-6,Biography,true
+B0166,Lost Database,Michael Davis,978-8-70-7029-4,Physics,true
+B0167,Introduction to Science,Linda Thomas,978-6-80-7302-1,Business,true
+B0168,Advanced History (Vol. 3),Charles Davis,978-2-29-3619-5,History,true
+B0169,Ultimate Journey,Robert Jackson,978-6-2-1386-1,Chemistry,true
+B0170,Advanced Whispers (Vol. 3),James Thompson,978-0-94-7537-2,Chemistry,true
+B0171,Modern Chronicles,Elizabeth Hernandez,978-2-90-4314-8,Physics,true
+B0172,Computational Patterns,William Garcia,978-1-55-5186-0,Business,true
+B0173,Forgotten Legends,Charles Miller,978-8-97-3334-8,Chemistry,true
+B0174,Forgotten Physics,Richard Moore,978-8-1-1337-6,Fiction,true
+B0175,Introduction to Database (Vol. 2),Jessica Thompson,978-4-67-8623-3,Literature,true
+B0176,Advanced Systems,Jessica Martin,978-3-78-1291-6,Physics,true
+B0177,Golden Chronicles (Vol. 1),Susan Brown,978-6-60-6917-4,Physics,true
+B0178,Hidden Journey,Thomas Thomas,978-4-21-2887-3,Fiction,true
+B0179,Global Principles (Vol. 3),John Brown,978-3-67-0037-4,Mathematics,true
+B0180,Dark Secrets,Joseph White,978-6-2-8736-0,Engineering,true
+B0181,Practical Networks,Jessica Rodriguez,978-4-81-1848-8,Chemistry,true
+B0182,Forgotten Systems (Vol. 3),Charles Johnson,978-0-93-9890-0,Fiction,true
+B0183,Practical Systems (Vol. 3),Charles Jones,978-5-20-7580-8,History,true
+B0184,Golden Algorithms,Patricia Taylor,978-6-15-7264-7,Computer Science,true
+B0185,Hidden Whispers,Jennifer Martin,978-0-57-2618-2,Biography,true
+B0186,Advanced Patterns,Mary Taylor,978-0-25-8495-5,Chemistry,true
+B0187,Dark History,John Garcia,978-1-1-6598-4,Business,true
+B0188,Digital Algorithms,Sarah Williams,978-3-93-5707-3,Biography,true
+B0189,Modern Networks,Sarah Jackson,978-5-79-8741-2,History,true
+B0190,Modern Patterns (Vol. 2),Susan Davis,978-8-22-1708-7,Physics,true
+B0191,Silent History (Vol. 1),Elizabeth Thompson,978-1-53-7162-8,Mathematics,true
+B0192,Hidden Physics (Vol. 3),Joseph Taylor,978-3-14-8226-8,Mathematics,true
+B0193,Computational Physics,Patricia Smith,978-6-86-7362-7,Literature,true
+B0194,Practical Art (Vol. 1),Robert Moore,978-8-48-1340-4,Engineering,true
+B0195,Global Principles,Joseph Miller,978-5-85-1109-4,Chemistry,true
+B0196,Designing Systems (Vol. 3),Barbara Taylor,978-6-8-5473-7,Engineering,true
+B0197,Golden Secrets,James Rodriguez,978-2-14-2553-4,History,true
+B0198,Lost Patterns,Susan Thompson,978-1-69-5739-2,Fiction,true
+B0199,Lost Physics (Vol. 2),James White,978-4-57-4977-4,Literature,true
+B0200,Mastering Art,Jennifer Williams,978-5-40-9721-5,Physics,true
+B0201,Modern Journey,Jennifer Thompson,978-3-30-7038-7,Fiction,true
+B0202,Digital Systems,John Anderson,978-4-35-6245-0,Mathematics,true
+B0203,Golden Science (Vol. 2),Karen Martin,978-7-98-1205-0,Mathematics,true
+B0204,Introduction to Secrets,Richard Thomas,978-5-29-2305-3,Chemistry,true
+B0205,Golden Chronicles,Thomas Wilson,978-4-4-7462-1,Engineering,true
+B0206,Quantum Chronicles,Robert Taylor,978-5-12-1516-3,Physics,true
+B0207,Advanced Journey (Vol. 3),John Martin,978-8-31-8282-8,Engineering,true
+B0208,Mastering Networks,Michael Martin,978-3-86-2066-2,History,true
+B0209,Golden Journey,Karen Moore,978-8-82-2451-6,Biography,true
+B0210,Designing Future,Elizabeth White,978-5-36-4770-5,Literature,true
+B0211,Hidden Future (Vol. 2),Mary Hernandez,978-0-91-7662-4,Physics,true
+B0212,Hidden Secrets,Barbara Davis,978-1-20-8516-5,Literature,true
+B0213,Golden Journey (Vol. 1),Michael Thomas,978-5-64-7416-1,Mathematics,true
+B0214,Modern Secrets,Mary Moore,978-4-13-1498-4,Fiction,true
+B0215,Hidden Systems (Vol. 3),John Anderson,978-4-23-1764-8,Biography,true
+B0216,Golden Physics (Vol. 3),Michael Martin,978-5-78-4121-8,Literature,true
+B0217,Modern Future,Elizabeth Jackson,978-4-0-9502-1,Business,true
+B0218,Mastering Future,Patricia Miller,978-2-19-9139-4,History,true
+B0219,Digital Database,Jennifer Williams,978-5-47-2217-4,Physics,true
+B0220,Digital Networks (Vol. 1),Charles Davis,978-3-11-5925-1,Literature,true
+B0221,Lost Secrets,William White,978-0-4-8464-2,Physics,true
+B0222,Beautiful Legends,Jessica White,978-3-76-5104-4,Physics,true
+B0223,Digital Chemistry,John Smith,978-1-74-3929-5,Chemistry,true
+B0224,Lost Universe,David Johnson,978-5-11-3758-4,Engineering,true
+B0225,Hidden Principles (Vol. 2),William Williams,978-0-6-5298-6,Biography,true
+B0226,Ultimate Chemistry,Richard White,978-2-5-4075-3,Computer Science,true
+B0227,Mastering Networks (Vol. 2),David Wilson,978-6-43-1327-8,Engineering,true
+B0228,Beautiful Universe (Vol. 2),James Jackson,978-2-47-1818-8,Engineering,true
+B0229,Beautiful Principles,Susan Martinez,978-2-65-0683-8,Engineering,true
+B0230,Ancient Secrets (Vol. 1),Michael Anderson,978-8-81-6109-0,History,true
+B0231,Lost Principles,James Miller,978-5-70-8948-1,Business,true
+B0232,Ancient Principles (Vol. 1),James Williams,978-2-50-5742-7,Mathematics,true
+B0233,Practical Database,Sarah Miller,978-8-77-2808-6,Computer Science,true
+B0234,Golden History,Karen Anderson,978-3-17-7577-4,Mathematics,true
+B0235,Global Future (Vol. 1),Charles Jackson,978-1-74-3722-0,Fiction,true
+B0236,Practical Engines (Vol. 3),Jessica White,978-5-69-7716-4,Physics,true
+B0237,Lost Systems (Vol. 1),Mary Hernandez,978-8-98-4483-0,Biography,true
+B0238,Hidden Journey (Vol. 1),Robert Anderson,978-4-57-3025-7,Computer Science,true
+B0239,Designing Whispers (Vol. 3),Thomas Smith,978-5-63-5336-4,History,true
+B0240,Introduction to Legends,Joseph Jackson,978-4-68-1539-6,Business,true
+B0241,Computational Journey,Jessica Martinez,978-8-26-4011-7,Computer Science,true
+B0242,Mastering Database (Vol. 2),Mary Martin,978-7-73-3617-8,Mathematics,true
+B0243,Hidden Secrets (Vol. 3),Joseph Wilson,978-7-81-0498-4,Engineering,true
+B0244,Quantum Universe (Vol. 2),Linda Thomas,978-1-60-1042-2,Chemistry,true
+B0245,Digital Principles,Linda Williams,978-7-40-6457-0,History,true
+B0246,Beautiful Universe (Vol. 1),Richard Smith,978-6-34-2430-3,Literature,true
+B0247,Ultimate Art,Karen Anderson,978-7-87-6904-4,History,true
+B0248,Advanced Physics (Vol. 2),Joseph Rodriguez,978-8-4-6740-2,Biography,true
+B0249,Practical Legends (Vol. 1),Michael Miller,978-2-38-9135-4,Physics,true
+B0250,Forgotten Science,Charles Jackson,978-6-48-8637-8,Mathematics,true
+B0251,Hidden Engines,Jessica Garcia,978-2-56-9124-8,Biography,true
+B0252,Advanced Dreams,Joseph Moore,978-7-98-4427-5,Biography,true
+B0253,Introduction to Physics,Michael Smith,978-3-4-0859-3,Fiction,true
+B0254,Lost Algorithms (Vol. 2),Jennifer Jones,978-6-2-0917-7,Biography,true
+B0255,Dark Principles,John Johnson,978-3-22-6688-7,Chemistry,true
+B0256,Lost Secrets (Vol. 1),John Hernandez,978-0-68-9628-1,Literature,true
+B0257,Modern Engines,Thomas Davis,978-1-56-1276-8,Business,true
+B0258,Designing Universe,John Hernandez,978-3-84-4210-3,Biography,true
+B0259,Lost Journey (Vol. 2),Michael Jackson,978-5-73-0131-3,Business,true
+B0260,Global Journey (Vol. 1),Barbara Brown,978-4-23-5656-3,Business,true
+B0261,Designing Physics (Vol. 3),Susan Taylor,978-0-96-6020-6,Chemistry,true
+B0262,Beautiful Algorithms,Charles Thomas,978-4-8-7412-3,Biography,true
+B0263,Ancient Engines (Vol. 3),Thomas Miller,978-8-17-6233-4,Chemistry,true
+B0264,Lost Patterns (Vol. 1),Barbara Brown,978-1-63-4337-0,Engineering,true
+B0265,Forgotten Art (Vol. 2),Jennifer Davis,978-5-37-6712-7,Computer Science,true
+B0266,Designing Legends,Jessica Miller,978-4-56-1609-0,Fiction,true
+B0267,Practical Chronicles (Vol. 2),David Davis,978-1-60-0491-7,History,true
+B0268,Lost Science (Vol. 1),Thomas Moore,978-5-44-7976-4,Mathematics,true
+B0269,Silent Science (Vol. 2),Michael Williams,978-5-40-8089-2,Physics,true
+B0270,Hidden Principles,Charles Johnson,978-3-22-3083-5,Fiction,true
+B0271,Mastering Patterns,Barbara Martin,978-6-59-6994-0,Business,true
+B0272,Advanced Journey,Barbara Jones,978-8-13-7356-3,Computer Science,true
+B0273,Modern Networks (Vol. 2),James Jones,978-1-68-6989-5,Mathematics,true
+B0274,Introduction to Patterns (Vol. 3),Joseph Wilson,978-8-31-9230-0,Business,true
+B0275,Hidden Dreams,Patricia Brown,978-4-54-4585-7,Chemistry,true
+B0276,Quantum Legends,Linda Garcia,978-1-7-0004-4,Engineering,true
+B0277,Golden Engines (Vol. 2),Jessica Martin,978-7-7-4877-6,Computer Science,true
+B0278,Advanced Universe,Jennifer Brown,978-5-82-9364-8,Biography,true
+B0279,Designing Algorithms,Jennifer Anderson,978-5-62-6004-1,Physics,true
+B0280,Ultimate Whispers,Elizabeth Williams,978-1-19-8922-8,Mathematics,true
+B0281,Quantum Universe,John Miller,978-1-34-8634-0,Literature,true
+B0282,Practical Science,Sarah Williams,978-7-35-0543-2,Physics,true
+B0283,Dark History (Vol. 3),William Wilson,978-6-89-6968-4,Mathematics,true
+B0284,Introduction to Systems,Richard Wilson,978-2-89-7950-7,Mathematics,true
+B0285,Practical Science (Vol. 2),Patricia Martin,978-5-44-8045-7,Business,true
+B0286,Silent Whispers,Thomas Jackson,978-0-60-9237-4,Fiction,true
+B0287,Ancient Universe,David Davis,978-4-71-8365-4,Chemistry,true
+B0288,Quantum History (Vol. 3),Elizabeth Smith,978-4-43-5358-3,Fiction,true
+B0289,Quantum Dreams (Vol. 1),Robert Martinez,978-6-83-1548-7,Mathematics,true
+B0290,Silent Networks (Vol. 2),Linda Wilson,978-4-26-5359-8,Biography,true
+B0291,Digital Chronicles (Vol. 2),John Rodriguez,978-2-55-4094-4,Business,true
+B0292,Forgotten Universe (Vol. 3),Susan Hernandez,978-3-24-9491-8,Biography,true
+B0293,Introduction to Dreams,Karen Thomas,978-0-51-9384-2,History,true
+B0294,Mastering Science,Thomas Brown,978-1-41-6776-6,Fiction,true
+B0295,Dark Future (Vol. 2),Linda Rodriguez,978-1-53-8629-3,Literature,true
+B0296,Silent Systems,Elizabeth Jackson,978-6-72-6778-7,Physics,true
+B0297,Introduction to History (Vol. 1),Mary Martinez,978-1-55-4112-1,Chemistry,true
+B0298,Quantum Systems,William Hernandez,978-8-3-2987-4,Mathematics,true
+B0299,Lost Systems,Richard Garcia,978-3-33-4066-6,Computer Science,true
+B0300,Computational Systems,Mary Martinez,978-3-53-9535-3,Business,true
+B0301,Modern Chemistry,James Johnson,978-3-18-0020-7,Fiction,true
+B0302,Global Engines (Vol. 2),Sarah Hernandez,978-3-34-6503-2,Engineering,true
+B0303,Quantum Chemistry (Vol. 1),David Thomas,978-8-77-0385-6,History,true
+B0304,Computational Journey (Vol. 2),Jennifer Davis,978-5-43-9777-7,Mathematics,true
+B0305,Ultimate Patterns (Vol. 2),Jennifer Thomas,978-1-62-1388-5,Physics,true
+B0306,Ancient Secrets,Joseph Garcia,978-5-24-8685-7,Physics,true
+B0307,Practical Principles (Vol. 2),Linda Thompson,978-6-91-6673-3,Literature,true
+B0308,Ancient Dreams (Vol. 2),Susan Williams,978-2-13-1155-2,Mathematics,true
+B0309,Designing Engines,Linda Moore,978-3-40-3920-5,History,true
+B0310,Quantum History (Vol. 2),Patricia Wilson,978-5-37-7905-1,Engineering,true
+B0311,Lost History,Mary Jones,978-7-43-2502-2,History,true
+B0312,Silent Engines,John White,978-2-90-9519-0,Chemistry,true
+B0313,Lost Whispers,Elizabeth Garcia,978-4-46-2248-0,Fiction,true
+B0314,Ultimate Chronicles,Jennifer Johnson,978-2-36-2871-3,Business,true
+B0315,Introduction to Art,Richard Brown,978-8-81-8576-7,Fiction,true
+B0316,Dark Legends (Vol. 2),Jennifer Smith,978-3-39-2674-7,Engineering,true
+B0317,Digital Secrets (Vol. 3),Thomas Johnson,978-2-25-5826-1,Biography,true
+B0318,Ancient Algorithms,Joseph Moore,978-6-0-9071-6,Literature,true
+B0319,Ultimate Future,David Martinez,978-8-69-4806-2,Physics,true
+B0320,Global Networks (Vol. 2),Charles Thomas,978-2-26-3875-3,Engineering,true
+B0321,Ancient Whispers (Vol. 3),Patricia White,978-7-83-9650-5,Engineering,true
+B0322,Beautiful Algorithms (Vol. 2),Richard White,978-0-82-4698-5,Chemistry,true
+B0323,Golden Physics,Sarah Jackson,978-3-30-1762-5,Fiction,true
+B0324,Lost Principles (Vol. 3),Joseph Taylor,978-6-10-1500-6,History,true
+B0325,Ultimate Journey (Vol. 3),Mary Thompson,978-3-2-2937-4,Engineering,true
+B0326,Forgotten Chronicles,Thomas Rodriguez,978-6-65-2141-0,Computer Science,true
+B0327,Digital Database (Vol. 3),Charles Davis,978-8-92-6688-7,History,true
+B0328,Advanced Database,Susan Williams,978-0-15-5710-2,Computer Science,true
+B0329,Golden Science,Michael Jones,978-7-30-1012-4,Computer Science,true
+B0330,Lost Legends,William Brown,978-7-89-5396-1,Engineering,true
+B0331,Mastering Systems (Vol. 3),Thomas Anderson,978-4-23-0109-6,Business,true
+B0332,Ultimate Networks (Vol. 2),Patricia Williams,978-1-64-5545-0,Fiction,true
+B0333,Quantum Secrets (Vol. 3),Charles Hernandez,978-8-20-4222-0,Physics,true
+B0334,Ultimate Dreams,Jennifer Brown,978-7-1-6481-2,Fiction,true
+B0335,Ultimate Universe,Patricia Brown,978-0-53-7957-7,Literature,true
+B0336,Introduction to Universe (Vol. 1),Robert Miller,978-2-35-7089-6,Physics,true
+B0337,Beautiful Engines,John Jones,978-0-58-9748-1,Computer Science,true
+B0338,Mastering Physics,William Hernandez,978-4-18-5915-5,Literature,true
+B0339,Beautiful Networks (Vol. 1),Charles Rodriguez,978-4-88-7233-6,Fiction,true
+B0340,Quantum Secrets (Vol. 1),Barbara Johnson,978-7-55-1758-1,Business,true
+B0341,Advanced Chronicles (Vol. 2),Richard Taylor,978-5-28-8977-4,Literature,true
+B0342,Forgotten Chemistry (Vol. 1),Jessica Hernandez,978-2-3-1251-8,History,true
+B0343,Designing Principles (Vol. 1),Mary Garcia,978-8-81-5442-8,Engineering,true
+B0344,Ancient Systems,Jessica Brown,978-6-47-4516-7,Computer Science,true
+B0345,Beautiful Art,Patricia Johnson,978-3-9-9985-3,Chemistry,true
+B0346,Practical Patterns,Thomas Jackson,978-3-25-9539-1,Business,true
+B0347,Computational Future (Vol. 1),Jessica Hernandez,978-3-1-0696-5,History,true
+B0348,Hidden Chronicles,Patricia White,978-0-5-4041-4,Engineering,true
+B0349,Introduction to Journey (Vol. 3),Robert Jackson,978-3-13-3172-3,History,true
+B0350,Designing Chemistry,Elizabeth Miller,978-7-51-9433-4,Computer Science,true
+B0351,Designing Journey,Jennifer Anderson,978-6-11-5470-1,Business,true
+B0352,Global Chronicles (Vol. 1),Thomas Hernandez,978-5-61-3908-1,Fiction,true
+B0353,Dark Science (Vol. 1),Jessica Davis,978-6-50-2438-1,History,true
+B0354,Forgotten Future (Vol. 2),Joseph Wilson,978-6-39-5444-1,Engineering,true
+B0355,Introduction to Networks (Vol. 3),James Davis,978-3-35-4420-7,Chemistry,true
+B0356,Quantum Whispers (Vol. 2),Jennifer Taylor,978-8-66-2321-8,Literature,true
+B0357,Mastering Whispers,James Taylor,978-5-38-4904-6,Literature,true
+B0358,Quantum Patterns (Vol. 3),Thomas Thompson,978-3-4-4593-8,Mathematics,true
+B0359,Digital Universe (Vol. 3),Elizabeth Martin,978-8-41-9473-7,Chemistry,true
+B0360,Quantum Systems (Vol. 3),William Thompson,978-6-1-9110-6,Physics,true
+B0361,Beautiful Patterns,Thomas Jackson,978-0-28-2682-5,Business,true
+B0362,Silent Dreams (Vol. 3),Thomas Hernandez,978-7-69-5517-8,Physics,true
+B0363,Beautiful Chronicles,Jennifer Martinez,978-0-64-9519-8,Business,true
+B0364,Forgotten Secrets (Vol. 3),Patricia Johnson,978-2-54-8521-3,Business,true
+B0365,Global Chronicles,Thomas Anderson,978-1-34-8984-0,Engineering,true
+B0366,Quantum Art (Vol. 1),Sarah Rodriguez,978-8-82-3505-4,Physics,true
+B0367,Silent Chemistry (Vol. 1),Patricia Martin,978-2-31-5458-5,Biography,true
+B0368,Mastering Art (Vol. 3),William Davis,978-7-4-2415-4,Chemistry,true
+B0369,Ultimate Legends,Jessica Jones,978-5-45-5593-3,Mathematics,true
+B0370,Beautiful Principles (Vol. 2),Jennifer Hernandez,978-5-18-8844-8,Engineering,true
+B0371,Ancient Systems (Vol. 3),James Wilson,978-0-49-9463-4,History,true
+B0372,Advanced Patterns (Vol. 3),Jennifer Martin,978-3-7-8880-2,Fiction,true
+B0373,Modern Secrets (Vol. 1),Jessica Thompson,978-4-95-6387-2,Mathematics,true
+B0374,Practical Physics (Vol. 3),Linda Martin,978-3-97-0723-1,Fiction,true
+B0375,Digital History,Jessica Moore,978-3-64-1685-0,Physics,true
+B0376,Quantum Chemistry (Vol. 2),Karen Williams,978-3-80-2142-7,Business,true
+B0377,Practical Systems,David White,978-4-43-8658-4,Business,true
+B0378,Ancient Algorithms (Vol. 3),Charles Miller,978-4-77-8866-1,Chemistry,true
+B0379,Hidden Database (Vol. 3),Joseph Thomas,978-2-95-6821-4,History,true
+B0380,Designing History (Vol. 3),James Miller,978-8-44-7383-1,Computer Science,true
+B0381,Lost Science,William Moore,978-6-32-9342-0,Engineering,true
+B0382,Beautiful Art (Vol. 3),Robert Miller,978-6-93-1683-2,Literature,true
+B0383,Quantum Journey,Joseph Jackson,978-1-36-5259-2,History,true
+B0384,Mastering Secrets,Patricia Jackson,978-5-29-4748-3,Business,true
+B0385,Lost Legends (Vol. 2),Jessica Thomas,978-2-9-3123-1,Physics,true
+B0386,Quantum Principles (Vol. 3),Robert Anderson,978-5-86-2822-2,Biography,true
+B0387,Modern Algorithms (Vol. 3),Karen Moore,978-2-25-6582-7,Engineering,true
+B0388,Modern Networks (Vol. 1),Elizabeth Garcia,978-5-35-0676-7,Physics,true
+B0389,Beautiful Journey,Mary Wilson,978-1-46-3248-7,Chemistry,true
+B0390,Beautiful History (Vol. 1),Barbara Brown,978-2-61-3006-5,Biography,true
+B0391,Computational Principles (Vol. 1),James Miller,978-4-32-9346-3,History,true
+B0392,Digital Whispers (Vol. 3),Barbara Smith,978-3-8-6773-3,Biography,true
+B0393,Forgotten History,Jessica Smith,978-7-34-5174-1,Chemistry,true
+B0394,Designing Physics,John Williams,978-0-29-8277-4,Fiction,true
+B0395,Ancient Dreams,Karen Jones,978-3-24-7465-7,Biography,true
+B0396,Golden Principles,Elizabeth Jones,978-1-53-7573-3,Biography,true
+B0397,Quantum Science,John Thomas,978-8-65-0144-5,Computer Science,true
+B0398,Practical Database (Vol. 2),Jessica Anderson,978-7-1-6055-1,Engineering,true
+B0399,Golden Database (Vol. 1),Richard Wilson,978-6-54-4044-4,Literature,true
+B0400,Hidden Art,Jessica Williams,978-6-15-0172-5,Fiction,true
+B0401,Digital Dreams (Vol. 1),Michael Moore,978-7-51-5394-0,Chemistry,true
+B0402,Forgotten Art,Jennifer Garcia,978-6-89-3559-6,Biography,true
+B0403,Digital Chronicles,James Jackson,978-3-90-3811-1,Biography,true
+B0404,Lost Future (Vol. 2),Karen Garcia,978-4-79-5141-8,Chemistry,true
+B0405,Golden Dreams,Elizabeth Moore,978-4-10-7084-2,Biography,true
+B0406,Mastering History (Vol. 1),David Anderson,978-7-9-4600-6,Physics,true
+B0407,Designing Patterns,Charles Thompson,978-3-75-1093-3,Fiction,true
+B0408,Designing Secrets,Robert Wilson,978-3-43-3526-4,Engineering,true
+B0409,Designing Database,Jessica Hernandez,978-5-19-4727-5,Literature,true
+B0410,Silent Art (Vol. 3),Sarah Jones,978-8-24-4221-6,Physics,true
+B0411,Lost Art,Susan Rodriguez,978-6-94-4936-8,Business,true
+B0412,Digital Patterns (Vol. 2),Richard White,978-4-45-4980-1,Physics,true
+B0413,Global Networks,Robert Davis,978-3-5-0727-7,Business,true
+B0414,Dark Systems (Vol. 3),Patricia Thompson,978-2-0-6097-6,Literature,true
+B0415,Quantum History,Thomas Martinez,978-5-43-6968-4,Chemistry,true
+B0416,Advanced Physics (Vol. 3),Joseph Anderson,978-4-39-8084-5,Literature,true
+B0417,Hidden Future,Mary Taylor,978-6-68-9482-8,Computer Science,true
+B0418,Dark Legends,Charles Anderson,978-1-29-2154-4,Biography,true
+B0419,Forgotten Chronicles (Vol. 3),John Wilson,978-1-8-4729-2,Business,true
+B0420,Global Dreams,Barbara Miller,978-5-51-8258-1,Fiction,true
+B0421,Global Legends,Susan Martinez,978-3-10-9737-5,Business,true
+B0422,Hidden Algorithms,Sarah Wilson,978-2-0-8190-3,Literature,true
+B0423,Ultimate Art (Vol. 3),Elizabeth Jackson,978-5-79-7540-5,Business,true
+B0424,Practical Algorithms,Mary Anderson,978-2-19-2648-8,Physics,true
+B0425,Advanced Science,Karen Wilson,978-7-84-8635-7,Engineering,true
+B0426,Forgotten Engines (Vol. 1),Michael Hernandez,978-7-61-1435-3,Mathematics,true
+B0427,Ultimate Database (Vol. 1),Patricia Jones,978-3-31-8111-4,Computer Science,true
+B0428,Silent Chemistry,John Thomas,978-1-93-3884-5,Fiction,true
+B0429,Modern Journey (Vol. 3),Susan Davis,978-2-50-8167-6,Business,true
+B0430,Ancient History (Vol. 2),Joseph Jones,978-8-65-9939-4,Computer Science,true
+B0431,Forgotten Database (Vol. 2),Joseph Johnson,978-4-8-6153-1,Biography,true
+B0432,Designing Future (Vol. 1),Michael White,978-3-61-3659-1,Physics,true
+B0433,Advanced Algorithms (Vol. 3),Charles Moore,978-1-14-8260-5,Engineering,true
+B0434,Practical Universe (Vol. 1),Barbara Johnson,978-7-80-9467-0,Physics,true
+B0435,Global Systems,Robert Davis,978-7-93-4324-0,Business,true
+B0436,Introduction to Principles,Linda Thomas,978-5-64-1532-7,Chemistry,true
+B0437,Dark Systems (Vol. 2),Linda Johnson,978-6-25-8232-6,Computer Science,true
+B0438,Ancient Physics,Thomas Jones,978-0-3-1280-1,Computer Science,true
+B0439,Practical Whispers (Vol. 3),Patricia Jackson,978-6-18-6571-6,History,true
+B0440,Digital Principles (Vol. 2),Patricia Miller,978-1-30-6419-0,Business,true
+B0441,Modern Systems (Vol. 1),Mary Thomas,978-3-52-9562-6,Fiction,true
+B0442,Designing History,Mary Miller,978-5-81-4799-5,Chemistry,true
+B0443,Dark Universe,William Rodriguez,978-6-0-8800-3,History,true
+B0444,Introduction to Physics (Vol. 1),Joseph Thompson,978-5-17-2689-6,Computer Science,true
+B0445,Modern Networks (Vol. 3),Karen Thompson,978-4-19-1948-6,Mathematics,true
+B0446,Ultimate Networks,Susan Jones,978-1-31-2859-1,Chemistry,true
+B0447,Ultimate Chemistry (Vol. 3),Jessica Williams,978-4-69-6624-2,Literature,true
+B0448,Golden Networks,Jessica Brown,978-8-20-8915-6,Fiction,true
+B0449,Introduction to Database,Michael Williams,978-2-73-3760-5,Chemistry,true
+B0450,Digital Dreams,Karen Williams,978-2-10-5908-3,Biography,true
+B0451,Designing Art (Vol. 1),Richard Taylor,978-4-26-3375-0,Physics,true
+B0452,Lost Science (Vol. 2),Robert Martinez,978-0-35-4657-6,Business,true
+B0453,Computational Secrets,Michael Johnson,978-6-0-2993-4,Business,true
+B0454,Computational Networks,Charles Martin,978-3-74-9958-7,Business,true
+B0455,Beautiful Future (Vol. 3),Robert Taylor,978-8-64-7713-1,Chemistry,true
+B0456,Ultimate Journey (Vol. 1),David Johnson,978-2-58-6109-7,Biography,true
+B0457,Beautiful History,Michael Taylor,978-4-67-5248-7,Literature,true
+B0458,Lost Algorithms (Vol. 1),Patricia Hernandez,978-3-12-9492-5,History,true
+B0459,Modern Science,Sarah Davis,978-8-77-9032-3,Engineering,true
+B0460,Global Journey,Thomas Jackson,978-3-8-5017-8,Mathematics,true
+B0461,Practical Principles,Michael Martinez,978-4-59-2914-5,Computer Science,true
+B0462,Ultimate Principles,Thomas Williams,978-4-11-5413-7,Fiction,true
+B0463,Advanced Legends,Michael Martinez,978-1-23-2985-7,Chemistry,true
+B0464,Introduction to Patterns (Vol. 1),Susan Moore,978-6-21-5546-0,Computer Science,true
+B0465,Modern Science (Vol. 2),Joseph Wilson,978-6-55-0173-5,Fiction,true
+B0466,Golden History (Vol. 2),Elizabeth White,978-0-87-3973-0,History,true
+B0467,Quantum Dreams,Elizabeth Hernandez,978-5-52-2962-2,Fiction,true
+B0468,Mastering Engines (Vol. 3),Charles Smith,978-1-46-7834-0,Engineering,true
+B0469,Hidden Chemistry,Barbara Williams,978-6-22-9931-1,Physics,true
+B0470,Forgotten History (Vol. 2),William Jones,978-2-43-4013-0,History,true
+B0471,Advanced Physics,William Hernandez,978-2-58-4002-1,Mathematics,true
+B0472,Dark Algorithms,William Wilson,978-7-15-5115-5,Engineering,true
+B0473,Mastering Science (Vol. 3),Jessica Taylor,978-7-11-2681-8,Chemistry,true
+B0474,Advanced Legends (Vol. 2),Elizabeth Johnson,978-4-4-7751-6,Mathematics,true
+B0475,Golden Engines (Vol. 3),Charles Jackson,978-4-8-0198-4,Mathematics,true
+B0476,Dark Science,Karen Garcia,978-7-31-8134-7,Business,true
+B0477,Quantum Patterns,Mary Johnson,978-3-56-2068-3,Mathematics,true
+B0478,Ultimate Journey (Vol. 2),Elizabeth Jones,978-8-92-7811-7,Mathematics,true
+B0479,Advanced Dreams (Vol. 3),Sarah Wilson,978-8-7-7077-3,Literature,true
+B0480,Introduction to Legends (Vol. 2),Jennifer Thomas,978-1-11-1835-0,Mathematics,true
+B0481,Quantum Physics,Robert Brown,978-0-66-7892-6,Engineering,true
+B0482,Introduction to Engines,Joseph Hernandez,978-1-94-0599-5,Literature,true
+B0483,Dark Principles (Vol. 2),Robert Rodriguez,978-6-62-7116-0,History,true
+B0484,Advanced Systems (Vol. 3),Linda Thompson,978-8-55-6140-5,Fiction,true
+B0485,Introduction to Dreams (Vol. 2),Susan Brown,978-0-42-0980-3,Engineering,true
+B0486,Computational Chronicles (Vol. 3),Karen Davis,978-8-23-0308-2,Chemistry,true
+B0487,Dark Whispers,Richard Garcia,978-3-34-4177-0,History,true
+B0488,Practical Chronicles,Charles Hernandez,978-2-16-4605-7,Chemistry,true
+B0489,Ultimate Networks (Vol. 1),Linda Jones,978-1-29-2169-3,History,true
+B0490,Golden Future (Vol. 3),Linda Thomas,978-1-16-5211-0,Engineering,true
+B0491,Global Secrets,David Thompson,978-7-26-2673-8,Fiction,true
+B0492,Golden Systems (Vol. 2),William Taylor,978-5-13-3781-4,History,true
+B0493,Dark Future,Sarah Brown,978-4-19-2678-3,Chemistry,true
+B0494,Practical Systems (Vol. 1),Mary Brown,978-2-80-0398-8,Engineering,true
+B0495,Hidden Universe (Vol. 2),Michael Hernandez,978-5-19-5951-0,Literature,true
+B0496,Lost Dreams (Vol. 2),Charles Rodriguez,978-5-32-1636-3,Computer Science,true
+B0497,Designing Legends (Vol. 2),John Hernandez,978-6-56-8716-5,History,true
+B0498,Beautiful Whispers (Vol. 1),Linda Thomas,978-8-9-5563-8,Mathematics,true
+B0499,Beautiful Chronicles (Vol. 3),Michael Martin,978-3-53-0711-4,Business,true
+B0500,Forgotten Systems (Vol. 1),John Williams,978-1-14-2201-7,Business,true
+B0501,Ultimate Database (Vol. 3),Mary Jones,978-2-18-2085-6,Fiction,true
+B0502,Lost Engines,Michael Williams,978-8-60-0847-2,Mathematics,true
+B0503,Computational Secrets (Vol. 3),Mary Anderson,978-7-2-3149-6,History,true
+B0504,Ultimate Engines (Vol. 2),William Jones,978-3-50-7971-8,Physics,true
+B0505,Silent Systems (Vol. 2),Robert Rodriguez,978-5-85-3463-0,Engineering,true
+B0506,Forgotten Principles (Vol. 1),Robert Thompson,978-1-23-0054-2,Biography,true
+B0507,Ultimate Networks (Vol. 3),Charles Garcia,978-6-33-3819-8,Chemistry,true
+B0508,Global Engines,Susan Thompson,978-1-50-1282-6,History,true
+B0509,Ultimate Physics,Jennifer Martinez,978-4-3-3048-6,History,true
+B0510,Modern Patterns (Vol. 3),Elizabeth Jackson,978-5-28-2329-4,Mathematics,true
+B0511,Modern Database,Jessica Martin,978-7-54-8525-7,Physics,true
+B0512,Ancient Art,Elizabeth Johnson,978-6-13-9415-1,Engineering,true
+B0513,Forgotten Whispers (Vol. 1),Thomas Garcia,978-2-73-8105-1,Computer Science,true
+B0514,Ancient Science,Mary Johnson,978-1-68-5834-5,Business,true
+B0515,Modern Physics (Vol. 2),Barbara Williams,978-4-14-9163-6,Chemistry,true
+B0516,Silent Patterns (Vol. 2),Patricia Thomas,978-8-44-3463-2,Chemistry,true
+B0517,Dark Patterns,Robert White,978-7-1-8612-8,Chemistry,true
+B0518,Modern Secrets (Vol. 2),John Garcia,978-1-61-5593-4,Computer Science,true
+B0519,Golden Universe (Vol. 3),Jennifer Thomas,978-6-40-1430-0,Fiction,true
+B0520,Golden Principles (Vol. 1),Elizabeth Moore,978-0-36-3744-5,Physics,true
+B0521,Ancient Chemistry (Vol. 1),Elizabeth Jones,978-3-25-7173-0,Computer Science,true
+B0522,Hidden Networks (Vol. 1),Linda Moore,978-8-19-9514-1,Computer Science,true
+B0523,Hidden History (Vol. 1),Robert Garcia,978-8-86-7973-0,Mathematics,true
+B0524,Golden Networks (Vol. 2),Jessica Davis,978-8-8-5402-0,Fiction,true
+B0525,Practical Future,Robert Thomas,978-0-13-8679-5,History,true
+B0526,Lost History (Vol. 3),Michael White,978-7-44-8835-6,Computer Science,true
+B0527,Digital Secrets (Vol. 1),Linda Johnson,978-4-1-7800-8,Literature,true
+B0528,Silent History,Michael Brown,978-0-60-7326-2,Chemistry,true
+B0529,Ultimate Database (Vol. 2),Patricia Martin,978-5-64-1450-5,History,true
+B0530,Computational Future (Vol. 2),Barbara Hernandez,978-4-26-2820-7,History,true
+B0531,Modern Patterns,John Wilson,978-5-32-6597-2,Fiction,true
+B0532,Quantum Chronicles (Vol. 2),Mary Jones,978-6-91-8033-0,Physics,true
+B0533,Dark Database (Vol. 1),Linda Johnson,978-1-82-0803-6,Business,true
+B0534,Ultimate Patterns,William Thomas,978-3-44-1749-3,Engineering,true
+B0535,Advanced Art,Barbara Thomas,978-6-70-0178-4,Literature,true
+B0536,Practical Physics (Vol. 1),Elizabeth Martinez,978-2-67-0231-3,Fiction,true
+B0537,Designing Engines (Vol. 1),Joseph Miller,978-8-29-0619-3,Literature,true
+B0538,Dark Algorithms (Vol. 1),Michael Thompson,978-1-36-7996-2,Biography,true
+B0539,Hidden History,Michael Anderson,978-0-9-2461-2,Computer Science,true
+B0540,Advanced Chemistry (Vol. 3),David Brown,978-2-59-5708-8,Literature,true
+B0541,Global Universe (Vol. 3),Linda Williams,978-7-89-9140-2,History,true
+B0542,Computational History,William Wilson,978-7-8-8390-4,Fiction,true
+B0543,Quantum Networks,Robert Jones,978-7-18-9373-2,Business,true
+B0544,Global Dreams (Vol. 2),John Thompson,978-8-22-9047-1,History,true
+B0545,Ancient Science (Vol. 2),David Davis,978-4-24-6989-7,Chemistry,true
+B0546,Introduction to Networks (Vol. 1),Linda Martin,978-1-81-5817-8,Fiction,true
+B0547,Ancient Database (Vol. 2),Thomas Anderson,978-8-45-7612-1,Business,true
+B0548,Global Algorithms (Vol. 2),Elizabeth Jones,978-8-17-8479-8,History,true
+B0549,Hidden History (Vol. 3),David Smith,978-1-83-0816-5,Business,true
+B0550,Ancient Chronicles (Vol. 1),Charles Taylor,978-2-1-9434-7,Mathematics,true
+B0551,Dark Engines,Jessica Smith,978-6-70-4344-4,Computer Science,true
+B0552,Mastering History,Charles White,978-3-15-6133-1,Mathematics,true
+B0553,Digital Chemistry (Vol. 2),Michael Jackson,978-6-94-9806-6,Chemistry,true
+B0554,Ancient Principles (Vol. 2),Mary Anderson,978-1-13-6065-4,Engineering,true
+B0555,Practical Journey,Barbara Thomas,978-2-65-6838-1,Engineering,true
+B0556,Practical Universe (Vol. 3),Barbara Hernandez,978-2-29-4458-7,Literature,true
+B0557,Quantum Physics (Vol. 3),Sarah Thomas,978-6-52-8299-4,Physics,true
+B0558,Ultimate Engines,Elizabeth Rodriguez,978-1-2-5278-6,Literature,true
+B0559,Modern Universe (Vol. 3),Sarah Martinez,978-3-9-8238-4,Fiction,true
+B0560,Golden Future (Vol. 1),Barbara Thompson,978-0-33-8656-1,Mathematics,true
+B0561,Quantum Algorithms,Charles Thompson,978-7-38-7122-6,Biography,true
+B0562,Dark Physics (Vol. 2),David Martinez,978-4-26-6784-3,Engineering,true
+B0563,Dark Whispers (Vol. 1),Thomas Davis,978-2-83-0707-5,History,true
+B0564,Modern Legends (Vol. 1),John Martinez,978-8-97-4453-6,Business,true
+B0565,Ancient Algorithms (Vol. 1),Sarah Smith,978-8-35-5871-1,Mathematics,true
+B0566,Practical Engines,Karen Thomas,978-5-19-6949-3,Engineering,true
+B0567,Global Patterns (Vol. 2),Linda Jones,978-4-38-1576-4,Engineering,true
+B0568,Practical Database (Vol. 3),Joseph Taylor,978-5-75-7567-0,Physics,true
+B0569,Dark Principles (Vol. 3),Barbara Martinez,978-6-38-9561-3,Physics,true
+B0570,Global Networks (Vol. 3),Karen Jones,978-3-55-4182-0,Fiction,true
+B0571,Global Engines (Vol. 3),John Thompson,978-6-19-5082-3,History,true
+B0572,Modern Systems,Jennifer Williams,978-6-2-4193-2,Mathematics,true
+B0573,Advanced Chronicles (Vol. 3),Richard Rodriguez,978-5-68-6843-6,Fiction,true
+B0574,Golden Database (Vol. 2),John Brown,978-6-63-9957-2,Business,true
+B0575,Global Systems (Vol. 2),David Jackson,978-7-55-6948-0,Mathematics,true
+B0576,Dark Database,Elizabeth Taylor,978-7-27-7915-2,Business,true
+B0577,Modern Art,Joseph Wilson,978-8-17-7513-4,History,true
+B0578,Global Patterns (Vol. 1),Mary Brown,978-1-76-8213-6,Physics,true
+B0579,Beautiful Future (Vol. 1),Barbara White,978-8-89-0203-8,Business,true
+B0580,Mastering Database,Jennifer Thompson,978-0-14-6648-7,Engineering,true
+B0581,Global Art (Vol. 2),Patricia Anderson,978-7-10-6524-5,Engineering,true
+B0582,Advanced Principles,Jessica Martin,978-8-62-2601-4,History,true
+B0583,Advanced Legends (Vol. 3),Jennifer Hernandez,978-7-30-6331-4,History,true
+B0584,Mastering Patterns (Vol. 2),Mary Moore,978-2-25-5320-6,Engineering,true
+B0585,Digital Universe (Vol. 2),Charles Wilson,978-3-1-3777-8,Engineering,true
+B0586,Mastering Networks (Vol. 3),Jennifer Johnson,978-1-6-8712-3,Business,true
+B0587,Digital Journey,Susan Thomas,978-7-18-6614-6,History,true
+B0588,Ultimate Algorithms (Vol. 2),David Wilson,978-2-83-7828-1,Physics,true
+B0589,Mastering Future (Vol. 1),Joseph Thompson,978-7-0-8643-4,Biography,true
+B0590,Ultimate Physics (Vol. 1),Joseph Jackson,978-3-69-5649-7,History,true
+B0591,Digital Physics,Jessica Rodriguez,978-3-45-3651-8,Mathematics,true
+B0592,Designing Legends (Vol. 3),Charles Thompson,978-4-63-2490-7,Computer Science,true
+B0593,Computational Secrets (Vol. 2),Richard Jones,978-0-31-7830-5,Mathematics,true
+B0594,Beautiful Chemistry,David Johnson,978-3-29-9443-6,Fiction,true
+B0595,Introduction to Networks (Vol. 2),Jessica Smith,978-5-87-5896-4,Mathematics,true
+B0596,Designing Chemistry (Vol. 2),John Johnson,978-3-19-5007-3,Mathematics,true
+B0597,Silent Journey (Vol. 2),Patricia Taylor,978-4-83-2778-6,History,true
+B0598,Computational Principles (Vol. 2),Karen Rodriguez,978-6-0-4603-5,Mathematics,true
+B0599,Mastering Chemistry (Vol. 1),Elizabeth Taylor,978-8-87-9577-5,Fiction,true
+B0600,Computational Principles (Vol. 3),Mary Jones,978-3-3-6868-6,Biography,true
+B0601,Ultimate Secrets,Mary Johnson,978-6-52-7911-8,Chemistry,true
+B0602,Designing Systems,Barbara Rodriguez,978-7-31-6536-1,Business,true
+B0603,Ultimate Future (Vol. 2),Richard Martin,978-6-79-5966-4,History,true
+B0604,Forgotten Principles (Vol. 2),Jessica Thompson,978-2-95-4861-1,Physics,true
+B0605,Global Science (Vol. 3),Jennifer Davis,978-4-31-6470-0,Biography,true
+B0606,Designing Chronicles (Vol. 1),Charles Johnson,978-5-96-6320-7,Fiction,true
+B0607,Golden Systems,Patricia Martin,978-6-26-2757-8,Biography,true
+B0608,Digital History (Vol. 2),Michael Martin,978-0-97-6941-3,Physics,true
+B0609,Designing Future (Vol. 3),William Martinez,978-4-21-0052-2,Computer Science,true
+B0610,Ultimate Engines (Vol. 1),Michael Brown,978-0-89-5122-5,Computer Science,true
+B0611,Silent Future,William Hernandez,978-5-67-8623-8,Computer Science,true
+B0612,Designing Dreams (Vol. 3),Charles Thompson,978-5-87-3175-2,Fiction,true
+B0613,Beautiful Whispers,Joseph Davis,978-1-59-8146-6,Biography,true
+B0614,Silent Journey,Thomas Williams,978-3-66-0804-1,Fiction,true
+B0615,Global Chemistry (Vol. 3),David Williams,978-0-77-5269-1,Business,true
+B0616,Mastering Chronicles,Michael Martin,978-7-21-4566-7,Biography,true
+B0617,Computational Chemistry (Vol. 1),Richard Taylor,978-7-32-9128-3,Engineering,true
+B0618,Dark Chemistry (Vol. 1),Jennifer Jackson,978-5-5-3142-1,Business,true
+B0619,Golden Universe,Richard Thompson,978-4-53-6746-2,Mathematics,true
+B0620,Quantum Dreams (Vol. 3),Sarah Taylor,978-4-61-1480-2,Biography,true
+B0621,Mastering Legends (Vol. 3),Jennifer White,978-0-22-5337-0,Computer Science,true
+B0622,Mastering Chemistry,Jennifer Davis,978-0-6-2767-6,Computer Science,true
+B0623,Silent Art (Vol. 1),Thomas Thompson,978-0-90-1678-3,Biography,true
+B0624,Ancient Chemistry,David Davis,978-8-92-1740-8,Fiction,true
+B0625,Ancient Physics (Vol. 2),Thomas Moore,978-4-40-6117-5,Computer Science,true
+B0626,Designing Journey (Vol. 2),David Williams,978-8-46-9666-4,Computer Science,true
+B0627,Golden Secrets (Vol. 2),Jennifer Brown,978-1-58-5804-8,Literature,true
+B0628,Forgotten Patterns (Vol. 1),Richard Thomas,978-0-22-5225-1,Fiction,true
+B0629,Golden Chemistry (Vol. 1),Karen Wilson,978-6-22-6092-4,Chemistry,true
+B0630,Hidden Systems (Vol. 1),Thomas Williams,978-6-47-7285-7,Business,true
+B0631,Beautiful Future,Barbara Williams,978-6-7-7351-1,Biography,true
+B0632,Global Database (Vol. 1),Susan Moore,978-7-65-3886-5,Biography,true
+B0633,Digital Journey (Vol. 2),Sarah Miller,978-2-20-3007-3,Biography,true
+B0634,Hidden Networks,Jessica Johnson,978-6-69-1592-3,Computer Science,true
+B0635,Practical History,Charles Brown,978-8-75-4159-6,Physics,true
+B0636,Quantum Legends (Vol. 2),Elizabeth Wilson,978-4-73-8745-5,History,true
+B0637,Designing History (Vol. 2),William Taylor,978-5-23-9280-4,Business,true
+B0638,Dark Chronicles,William Garcia,978-5-66-0541-3,Chemistry,true
+B0639,Silent Universe,Karen Thomas,978-7-8-3780-3,Fiction,true
+B0640,Digital Future (Vol. 2),Michael Martinez,978-0-16-8597-4,Literature,true
+B0641,Introduction to Chemistry (Vol. 2),Jennifer Miller,978-7-89-1140-2,Mathematics,true
+B0642,Practical Dreams (Vol. 3),James Thompson,978-7-88-6181-4,History,true
+B0643,Dark Patterns (Vol. 1),Robert Hernandez,978-3-45-4773-5,Biography,true
+B0644,Modern Principles,Sarah Johnson,978-5-79-3928-7,Computer Science,true
+B0645,Modern Legends,Sarah Thomas,978-2-20-3232-1,Chemistry,true
+B0646,Quantum Universe (Vol. 1),James Martinez,978-4-7-4256-8,Biography,true
+B0647,Ancient Future,James Thompson,978-2-12-6857-8,Biography,true
+B0648,Advanced Secrets (Vol. 3),William Martin,978-6-95-2139-2,Business,true
+B0649,Forgotten Dreams (Vol. 3),Thomas Garcia,978-8-21-9048-7,Fiction,true
+B0650,Golden Database,Robert Thomas,978-4-39-1436-2,Fiction,true
+B0651,Dark Science (Vol. 2),Sarah Jackson,978-6-13-0433-3,Physics,true
+B0652,Hidden Patterns (Vol. 1),Thomas Martin,978-3-55-0443-3,History,true
+B0653,Modern Future (Vol. 3),Thomas Davis,978-8-11-9108-7,Chemistry,true
+B0654,Introduction to Patterns (Vol. 2),Barbara Williams,978-1-20-5882-1,Business,true
+B0655,Designing Database (Vol. 1),Barbara Rodriguez,978-2-27-6024-6,Physics,true
+B0656,Forgotten Networks,Karen Johnson,978-0-14-9540-4,Business,true
+B0657,Silent Networks (Vol. 3),Mary Jones,978-7-96-5428-7,Fiction,true
+B0658,Golden Chronicles (Vol. 3),Jennifer Martin,978-1-88-0625-2,Literature,true
+B0659,Global Secrets (Vol. 1),James Martin,978-8-95-1215-3,Engineering,true
+B0660,Ancient Patterns (Vol. 2),Patricia Anderson,978-1-35-9236-1,Literature,true
+B0661,Quantum Universe (Vol. 3),David Wilson,978-2-53-3605-5,Computer Science,true
+B0662,Silent Physics (Vol. 1),Susan Anderson,978-3-98-9059-5,Biography,true
+B0663,Ancient Universe (Vol. 1),Michael Taylor,978-0-94-8034-7,Mathematics,true
+B0664,Modern Algorithms,Richard Miller,978-0-0-9558-7,Business,true
+B0665,Practical Whispers (Vol. 2),David Martin,978-4-11-7406-5,Physics,true
+B0666,Hidden Patterns (Vol. 3),Barbara Davis,978-4-15-5931-5,History,true
+B0667,Digital Legends (Vol. 1),Karen Jones,978-7-78-6553-4,Literature,true
+B0668,Silent Secrets (Vol. 1),Linda Thompson,978-0-36-6525-7,History,true
+B0669,Silent Secrets,Susan Miller,978-7-5-3302-7,Engineering,true
+B0670,Beautiful Database,Sarah Martin,978-3-65-0424-2,Mathematics,true
+B0671,Advanced Chemistry (Vol. 2),William Wilson,978-8-7-8018-0,Physics,true
+B0672,Quantum Art,David Brown,978-8-11-0401-6,History,true
+B0673,Silent Future (Vol. 3),Linda Thompson,978-7-18-0501-4,Mathematics,true
+B0674,Silent Science,Jennifer Thompson,978-7-39-6319-4,Chemistry,true
+B0675,Lost Art (Vol. 2),Linda Garcia,978-3-92-1283-5,Mathematics,true
+B0676,Global Science (Vol. 2),Linda Taylor,978-8-71-1944-2,Mathematics,true
+B0677,Silent Future (Vol. 1),Karen Williams,978-3-19-2789-1,Chemistry,true
+B0678,Computational Secrets (Vol. 1),David Brown,978-1-87-3025-8,Computer Science,true
+B0679,Digital Whispers,Susan Anderson,978-5-56-4077-3,Mathematics,true
+B0680,Beautiful Systems,Michael Garcia,978-8-14-9906-5,Mathematics,true
+B0681,Lost Physics,Thomas Davis,978-1-8-4524-6,Engineering,true
+B0682,Beautiful Science (Vol. 3),Jennifer Davis,978-5-54-8719-5,Biography,true
+B0683,Beautiful Science,Linda Rodriguez,978-3-73-8997-0,Mathematics,true
+B0684,Mastering Universe,Joseph Johnson,978-0-71-7865-7,Engineering,true
+B0685,Introduction to Chronicles,Barbara Johnson,978-8-11-5001-4,Literature,true
+B0686,Ancient Principles (Vol. 3),Patricia Thomas,978-6-56-3909-4,Biography,true
+B0687,Hidden Systems,Linda Martin,978-4-21-6889-8,Business,true
+B0688,Silent Patterns (Vol. 1),Robert Garcia,978-0-20-5280-7,Engineering,true
+B0689,Modern Universe,Michael Garcia,978-8-60-9128-7,Fiction,true
+B0690,Silent Chemistry (Vol. 3),Robert Brown,978-0-90-2046-4,Biography,true
+B0691,Quantum Principles (Vol. 2),James Jones,978-7-96-9298-1,Computer Science,true
+B0692,Quantum Database (Vol. 3),Joseph Jones,978-0-6-1401-5,Mathematics,true
+B0693,Silent Engines (Vol. 3),James Smith,978-3-2-5382-7,History,true
+B0694,Computational Algorithms,Jennifer Thompson,978-7-48-7631-4,Literature,true
+B0695,Mastering Dreams (Vol. 3),Elizabeth Martin,978-0-39-2875-2,Business,true
+B0696,Practical Legends (Vol. 2),James Hernandez,978-1-88-7235-2,Fiction,true
+B0697,Dark Networks,Sarah Taylor,978-3-47-2013-4,Fiction,true
+B0698,Designing Science,Mary Jackson,978-0-57-5398-3,History,true
+B0699,Digital Secrets,Sarah Rodriguez,978-8-95-5553-5,Engineering,true
+B0700,Lost Science (Vol. 3),Jennifer Anderson,978-6-14-1730-6,Business,true
+B0701,Practical Whispers (Vol. 1),William Wilson,978-3-55-9533-6,History,true
+B0702,Forgotten Networks (Vol. 2),Sarah Wilson,978-1-3-0012-1,Mathematics,true
+B0703,Golden Chronicles (Vol. 2),Sarah Rodriguez,978-6-46-5387-7,Computer Science,true
+B0704,Computational Whispers (Vol. 2),Patricia Garcia,978-2-45-8877-0,Physics,true
+B0705,Introduction to Dreams (Vol. 1),Jennifer Taylor,978-7-37-6688-1,Mathematics,true
+B0706,Practical Science (Vol. 3),Linda White,978-0-51-6035-1,Business,true
+B0707,Hidden Engines (Vol. 3),David Jackson,978-2-17-5279-0,Literature,true
+B0708,Hidden Chronicles (Vol. 2),Jennifer Martin,978-4-21-1119-4,Business,true
+B0709,Designing Whispers,Mary White,978-4-54-9778-2,Mathematics,true
+B0710,Computational Whispers,Barbara Taylor,978-0-24-4390-7,Business,true
+B0711,Beautiful Dreams (Vol. 2),Patricia Moore,978-2-34-9803-4,Computer Science,true
+B0712,Digital Universe,Sarah Smith,978-5-7-5742-7,Computer Science,true
+B0713,Hidden Legends (Vol. 3),Sarah Martinez,978-1-10-3202-5,Physics,true
+B0714,Ultimate Engines (Vol. 3),Joseph Davis,978-8-55-1408-7,Physics,true
+B0715,Dark Universe (Vol. 2),David Jackson,978-0-38-7862-1,Fiction,true
+B0716,Silent Networks,Richard Johnson,978-4-45-5948-7,Engineering,true
+B0717,Dark Algorithms (Vol. 3),Elizabeth Garcia,978-1-72-6219-3,Computer Science,true
+B0718,Global Whispers (Vol. 3),Mary Thomas,978-8-40-5289-7,Mathematics,true
+B0719,Practical Future (Vol. 1),James Hernandez,978-4-75-1154-0,History,true
+B0720,Global Whispers (Vol. 2),Sarah Garcia,978-4-92-2661-0,Physics,true
+B0721,Modern Whispers (Vol. 3),David Taylor,978-3-62-4478-1,History,true
+B0722,Digital Science (Vol. 1),Elizabeth Williams,978-1-12-8948-2,Computer Science,true
+B0723,Ancient Database (Vol. 1),Robert Thomas,978-3-33-2926-3,Computer Science,true
+B0724,Golden Secrets (Vol. 3),Charles Davis,978-3-37-8307-4,Biography,true
+B0725,Introduction to Networks,Barbara Garcia,978-0-38-5412-2,Physics,true
+B0726,Global Database,Robert Martinez,978-0-25-5511-7,Business,true
+B0727,Lost Art (Vol. 1),Robert Jones,978-3-46-6063-5,Literature,true
+B0728,Ancient Chemistry (Vol. 3),Sarah Thompson,978-3-36-3350-4,Biography,true
+B0729,Advanced Patterns (Vol. 1),Michael Jones,978-8-14-9911-8,Physics,true
+B0730,Ancient Patterns,Michael Thompson,978-7-78-0956-3,Mathematics,true
+B0731,Dark Physics,Susan Moore,978-0-10-3609-8,Biography,true
+B0732,Advanced Art (Vol. 1),Patricia Williams,978-3-43-4943-6,Computer Science,true
+B0733,Modern Chemistry (Vol. 2),Richard Anderson,978-3-33-6182-6,Engineering,true
+B0734,Designing Chronicles,Joseph Martinez,978-3-58-6436-4,Business,true
+B0735,Digital Art (Vol. 2),Michael Rodriguez,978-6-42-0424-4,Literature,true
+B0736,Introduction to Physics (Vol. 2),Barbara Garcia,978-1-35-3361-0,Computer Science,true
+B0737,Practical History (Vol. 2),Elizabeth Martinez,978-3-90-8319-4,Fiction,true
+B0738,Introduction to Patterns,James Martin,978-1-70-6486-2,Fiction,true
+B0739,Practical Journey (Vol. 2),Charles Thompson,978-1-63-0089-3,Physics,true
+B0740,Advanced Chemistry,Susan Davis,978-5-45-8937-7,Mathematics,true
+B0741,Beautiful Chemistry (Vol. 3),David White,978-7-3-3699-4,Business,true
+B0742,Dark Dreams (Vol. 1),Thomas Garcia,978-8-26-1821-5,Fiction,true
+B0743,Digital Universe (Vol. 1),Charles Wilson,978-8-37-2833-8,Chemistry,true
+B0744,Dark Journey (Vol. 2),Jennifer Wilson,978-2-18-8102-6,Physics,true
+B0745,Practical Journey (Vol. 3),John Thompson,978-2-77-0766-3,Mathematics,true
+B0746,Dark Systems,Jessica Rodriguez,978-4-30-5947-0,Physics,true
+B0747,Mastering Journey (Vol. 2),Linda Martin,978-7-0-7283-4,Fiction,true
+B0748,Beautiful Networks,Joseph Jones,978-3-81-2145-4,Chemistry,true
+B0749,Beautiful Secrets,David Brown,978-5-95-9652-8,Business,true
+B0750,Introduction to Systems (Vol. 3),David Johnson,978-1-67-9138-1,Engineering,true
+B0751,Forgotten Journey (Vol. 3),Michael White,978-2-48-8488-3,History,true
+B0752,Mastering Principles,Robert Martin,978-7-79-6764-0,History,true
+B0753,Silent Algorithms,Patricia Thomas,978-1-73-5191-8,Fiction,true
+B0754,Advanced History (Vol. 1),David Thomas,978-7-58-5046-1,History,true
+B0755,Dark Engines (Vol. 2),John Garcia,978-3-20-5250-5,Mathematics,true
+B0756,Advanced Science (Vol. 3),Charles White,978-5-7-1729-8,Business,true
+B0757,Mastering History (Vol. 3),James Taylor,978-4-64-8454-1,Fiction,true
+B0758,Ancient Future (Vol. 3),Mary Brown,978-5-96-2517-4,History,true
+B0759,Mastering Patterns (Vol. 1),David Martin,978-7-23-3352-0,Engineering,true
+B0760,Digital Legends (Vol. 2),William Jackson,978-0-62-1179-3,Computer Science,true
+B0761,Designing Art,Michael Jones,978-5-86-4252-3,Biography,true
+B0762,Designing Journey (Vol. 1),Robert Smith,978-2-45-0826-1,Engineering,true
+B0763,Golden Whispers (Vol. 2),James Martin,978-1-55-7954-0,History,true
+B0764,Modern Principles (Vol. 3),William Miller,978-5-25-4935-2,Business,true
+B0765,Computational Legends,William Davis,978-4-30-7786-1,Fiction,true
+B0766,Global Database (Vol. 3),Joseph Martinez,978-0-86-8856-7,Engineering,true
+B0767,Lost Database (Vol. 1),Thomas Williams,978-5-26-8729-8,Engineering,true
+B0768,Practical Physics,William Davis,978-2-27-3934-4,Engineering,true
+B0769,Dark Dreams (Vol. 3),Michael Smith,978-4-20-3170-5,Mathematics,true
+B0770,Ancient Patterns (Vol. 1),Susan Thomas,978-3-50-3353-3,Fiction,true
+B0771,Advanced Algorithms,David Martinez,978-4-85-2780-3,Literature,true
+B0772,Golden Dreams (Vol. 3),Sarah Williams,978-8-10-3949-6,History,true
+B0773,Ancient Universe (Vol. 3),Linda Wilson,978-8-25-6341-1,Business,true
+B0774,Global History (Vol. 3),Michael Johnson,978-2-4-3504-4,Literature,true
+B0775,Practical Dreams (Vol. 1),John Garcia,978-1-15-0364-2,Biography,true
+B0776,Digital Art (Vol. 1),Linda Thompson,978-5-92-1414-0,Mathematics,true
+B0777,Beautiful Science (Vol. 2),Jennifer Miller,978-7-13-0201-5,History,true
+B0778,Mastering Universe (Vol. 3),Sarah Martin,978-6-71-8676-0,Chemistry,true
+B0779,Computational Future,Barbara Hernandez,978-5-74-1351-1,Computer Science,true
+B0780,Designing Engines (Vol. 2),Jennifer Thompson,978-1-65-3552-1,Computer Science,true
+B0781,Modern Art (Vol. 2),Mary Hernandez,978-3-77-7953-8,Fiction,true
+B0782,Golden Future (Vol. 2),Barbara Johnson,978-3-5-4242-4,Physics,true
+B0783,Practical Chemistry (Vol. 1),James Wilson,978-8-52-8984-8,Mathematics,true
+B0784,Introduction to Art (Vol. 2),Thomas Miller,978-5-18-7646-8,Fiction,true
+B0785,Quantum Secrets (Vol. 2),Joseph Williams,978-6-57-4874-0,History,true
+B0786,Forgotten Chemistry (Vol. 2),Elizabeth Williams,978-3-12-9918-0,Physics,true
+B0787,Forgotten History (Vol. 3),Sarah Brown,978-1-27-8819-6,Engineering,true
+B0788,Ultimate Future (Vol. 3),Mary Moore,978-0-84-4309-5,Computer Science,true
+B0789,Computational Algorithms (Vol. 3),James Martinez,978-0-69-6727-8,Mathematics,true
+B0790,Silent Legends (Vol. 2),Mary Martin,978-2-60-4335-1,History,true
+B0791,Practical Algorithms (Vol. 3),Patricia Garcia,978-3-22-5074-1,Chemistry,true
+B0792,Golden Future,David Davis,978-8-2-7293-5,Engineering,true
+B0793,Forgotten Patterns (Vol. 3),Barbara Thompson,978-1-87-0528-5,Engineering,true
+B0794,Digital Journey (Vol. 1),Richard Williams,978-3-47-8100-6,Mathematics,true
+B0795,Modern History (Vol. 2),Richard Anderson,978-5-84-0599-5,Chemistry,true
+B0796,Modern History,Joseph Thompson,978-5-12-3573-1,Business,true
+B0797,Hidden Art (Vol. 1),Michael Anderson,978-6-21-5252-2,Biography,true
+B0798,Introduction to Database (Vol. 3),Joseph Jackson,978-8-54-1533-4,Mathematics,true
+B0799,Advanced Systems (Vol. 1),William Moore,978-8-2-9156-2,Biography,true
+B0800,Introduction to Legends (Vol. 1),Sarah Jackson,978-3-75-1993-4,Fiction,true
+B0801,Hidden Future (Vol. 1),Sarah Davis,978-3-10-2975-7,Literature,true
+B0802,Silent Science (Vol. 3),Robert Martinez,978-1-73-5529-3,Fiction,true
+B0803,Silent Patterns,David Wilson,978-1-15-7032-2,Biography,true
+B0804,Mastering Dreams (Vol. 2),Richard Brown,978-3-63-7909-8,Mathematics,true
+B0805,Dark Future (Vol. 1),Robert Martin,978-1-54-7660-4,History,true
+B0806,Beautiful Secrets (Vol. 3),Linda Moore,978-6-90-7180-3,Physics,true
+B0807,Quantum Future (Vol. 2),Thomas Thompson,978-7-18-2655-8,History,true
+B0808,Designing Future (Vol. 2),Linda Johnson,978-6-49-3440-4,Business,true
+B0809,Digital Legends,David Williams,978-4-26-6261-6,Literature,true
+B0810,Lost Physics (Vol. 1),Richard Jones,978-3-38-2628-0,Biography,true
+B0811,Introduction to Art (Vol. 3),Mary Jackson,978-7-77-1847-2,History,true
+B0812,Dark Legends (Vol. 3),Jennifer Jackson,978-8-90-1388-3,Engineering,true
+B0813,Beautiful Secrets (Vol. 2),Thomas Taylor,978-3-85-6191-0,Literature,true
+B0814,Advanced Secrets,Susan Rodriguez,978-3-78-4213-3,Mathematics,true
+B0815,Hidden History (Vol. 2),Thomas Hernandez,978-2-31-8915-0,Business,true
+B0816,Designing Systems (Vol. 1),Jennifer Brown,978-6-57-5028-8,Engineering,true
+B0817,Computational Algorithms (Vol. 2),Patricia Thompson,978-7-68-0846-2,Biography,true
+B0818,Forgotten Future (Vol. 1),Barbara Davis,978-3-39-9406-1,Computer Science,true
+B0819,Hidden Networks (Vol. 3),Charles Wilson,978-7-42-9736-0,Business,true
+B0820,Global Science (Vol. 1),Michael Moore,978-6-66-7968-7,Physics,true
+B0821,Computational Art (Vol. 1),Karen Williams,978-0-95-9360-8,History,true
+B0822,Golden Networks (Vol. 3),Charles Jackson,978-1-45-4948-5,Mathematics,true
+B0823,Golden Universe (Vol. 1),Joseph White,978-6-9-2710-3,Physics,true
+B0824,Forgotten Whispers (Vol. 3),William Williams,978-8-17-1292-5,History,true
+B0825,Ultimate Patterns (Vol. 3),Elizabeth Johnson,978-8-71-7990-2,Chemistry,true
+B0826,Forgotten Algorithms (Vol. 1),William Rodriguez,978-7-21-5497-7,Mathematics,true
+B0827,Ancient History,Thomas Rodriguez,978-8-59-9902-8,Computer Science,true
+B0828,Global Art (Vol. 1),Jennifer Wilson,978-2-81-8514-5,Computer Science,true
+B0829,Digital Engines (Vol. 2),Jessica Smith,978-6-40-9729-1,History,true
+B0830,Quantum Future,Sarah Thompson,978-2-96-9553-2,Business,true
+B0831,Mastering Physics (Vol. 1),Robert Johnson,978-7-17-0836-2,History,true
+B0832,Designing Chronicles (Vol. 3),Robert White,978-3-28-4860-1,Biography,true
+B0833,Global Algorithms (Vol. 1),Thomas Johnson,978-8-3-4417-4,Computer Science,true
+B0834,Practical Patterns (Vol. 2),Mary Garcia,978-8-64-7552-4,Engineering,true
+B0835,Quantum Algorithms (Vol. 3),Jessica Martinez,978-0-6-0724-6,Literature,true
+B0836,Global History (Vol. 1),Karen Brown,978-3-87-6047-8,Literature,true
+B0837,Modern Systems (Vol. 3),John Moore,978-1-3-6743-2,Mathematics,true
+B0838,Modern Whispers,Michael Martin,978-1-11-0400-1,History,true
+B0839,Quantum Algorithms (Vol. 1),Jennifer Thomas,978-3-13-2995-5,Computer Science,true
+B0840,Hidden Journey (Vol. 2),David Miller,978-6-17-7877-7,Physics,true
+B0841,Digital Principles (Vol. 1),Linda Wilson,978-7-23-0709-8,Literature,true
+B0842,Golden Networks (Vol. 1),Robert Anderson,978-3-80-6669-1,Mathematics,true
+B0843,Ancient Networks (Vol. 3),David Thompson,978-6-95-4135-6,History,true
+B0844,Golden History (Vol. 1),Robert Brown,978-4-18-7834-3,Biography,true
+B0845,Beautiful Art (Vol. 2),Mary Johnson,978-4-28-9678-0,Business,true
+B0846,Computational Universe (Vol. 3),Richard Miller,978-4-81-1841-2,Business,true
+B0847,Computational Principles,Thomas Thompson,978-7-64-4090-4,Biography,true
+B0848,Beautiful Legends (Vol. 2),Elizabeth Thomas,978-1-61-0585-5,Literature,true
+B0849,Quantum Principles (Vol. 1),Patricia Miller,978-5-88-2324-5,Business,true
+B0850,Ultimate History (Vol. 3),William Wilson,978-5-19-1095-3,Engineering,true
+B0851,Silent Whispers (Vol. 2),William Hernandez,978-3-49-1096-3,Engineering,true
+B0852,Golden Journey (Vol. 2),William Garcia,978-7-89-2007-5,Literature,true
+B0853,Ancient Secrets (Vol. 2),Elizabeth Rodriguez,978-5-19-0815-7,Biography,true
+B0854,Hidden Physics (Vol. 1),John Smith,978-2-94-5610-1,Computer Science,true
+B0855,Computational Dreams,James Rodriguez,978-4-80-9483-2,Computer Science,true
+B0856,Ultimate Systems (Vol. 1),David Jones,978-4-6-2089-2,History,true
+B0857,Mastering Physics (Vol. 3),Patricia Garcia,978-6-69-0927-0,Physics,true
+B0858,Dark Journey (Vol. 1),Susan Smith,978-6-13-2591-4,Physics,true
+B0859,Designing Chemistry (Vol. 1),Michael Taylor,978-1-7-5362-6,History,true
+B0860,Ultimate Whispers (Vol. 3),Susan Brown,978-6-26-9445-7,Biography,true
+B0861,Silent Art,Charles Thomas,978-7-49-8742-1,Biography,true
+B0862,Lost Chemistry (Vol. 3),Thomas Williams,978-6-39-1812-5,Business,true
+B0863,Modern Principles (Vol. 2),William Anderson,978-4-0-1801-0,Business,true
+B0864,Beautiful Database (Vol. 1),Thomas Johnson,978-8-51-2755-3,History,true
+B0865,Designing Physics (Vol. 2),Robert Davis,978-1-79-6556-4,Fiction,true
+B0866,Forgotten Dreams (Vol. 2),Charles Brown,978-2-85-8567-6,Fiction,true
+B0867,Ancient Whispers (Vol. 1),Barbara Miller,978-0-81-6727-6,Fiction,true
+B0868,Global Universe (Vol. 1),Richard Martinez,978-1-3-7068-1,Literature,true
+B0869,Introduction to Whispers (Vol. 2),Karen Rodriguez,978-6-14-3144-7,History,true
+B0870,Digital Science (Vol. 2),Thomas Miller,978-6-55-3477-6,Biography,true
+B0871,Computational Universe (Vol. 1),Elizabeth Taylor,978-4-96-1172-4,Engineering,true
+B0872,Designing Patterns (Vol. 2),John Miller,978-3-74-0413-0,Fiction,true
+B0873,Silent Patterns (Vol. 3),Joseph Williams,978-5-50-3480-8,History,true
+B0874,Golden Art (Vol. 1),David Hernandez,978-5-83-4834-7,Biography,true
+B0875,Advanced Dreams (Vol. 2),Susan Martin,978-2-57-3744-1,Physics,true
+B0876,Quantum Whispers,Thomas White,978-1-41-8629-5,Fiction,true
+B0877,Ancient Journey (Vol. 2),Patricia Brown,978-0-24-5530-2,Computer Science,true
+B0878,Practical Database (Vol. 1),Richard Johnson,978-8-9-3543-3,Mathematics,true
+B0879,Forgotten Algorithms (Vol. 3),Susan Thompson,978-2-33-7573-0,Physics,true
+B0880,Digital Chronicles (Vol. 3),David Jackson,978-6-94-6976-0,Engineering,true
+B0881,Lost Algorithms,John Smith,978-6-85-5042-6,Biography,true
+B0882,Advanced Art (Vol. 2),John Jones,978-4-88-7865-7,Chemistry,true
+B0883,Modern Chronicles (Vol. 3),Susan Anderson,978-3-22-6639-3,Biography,true
+B0884,Introduction to Algorithms,Karen Thompson,978-1-91-3648-6,Business,true
+B0885,Modern Physics,David Davis,978-6-48-7003-5,Chemistry,true
+B0886,Advanced Future (Vol. 2),Patricia Garcia,978-3-85-4490-3,Literature,true
+B0887,Global Physics (Vol. 2),Sarah Jones,978-4-58-9262-4,Computer Science,true
+B0888,Computational Database (Vol. 3),Barbara Anderson,978-5-47-0900-7,Literature,true
+B0889,Lost Database (Vol. 2),Michael Jackson,978-2-82-9854-7,History,true
+B0890,Mastering Future (Vol. 2),Karen Anderson,978-8-76-1222-6,Mathematics,true
+B0891,Introduction to Secrets (Vol. 2),Barbara Thomas,978-2-81-8496-1,Literature,true
+B0892,Global Physics (Vol. 3),Susan Garcia,978-4-54-4073-0,Literature,true
+B0893,Designing Networks (Vol. 2),Susan Williams,978-5-94-9788-1,Mathematics,true
+B0894,Lost Chemistry (Vol. 1),Joseph Thompson,978-7-32-6298-1,History,true
+B0895,Forgotten Universe (Vol. 1),Linda Johnson,978-2-59-7111-8,Mathematics,true
+B0896,Advanced Chronicles (Vol. 1),Barbara Martinez,978-3-63-5427-7,Computer Science,true
+B0897,Digital Principles (Vol. 3),Richard Moore,978-1-91-0349-2,Business,true
+B0898,Ancient History (Vol. 1),Elizabeth White,978-7-4-5594-6,Fiction,true
+B0899,Computational Algorithms (Vol. 1),Susan White,978-6-21-6832-6,Business,true
+B0900,Ancient Dreams (Vol. 3),Richard Smith,978-8-17-4869-0,Chemistry,true
+B0901,Digital Future (Vol. 1),Robert Williams,978-5-73-2733-1,Computer Science,true
+B0902,Practical Secrets (Vol. 3),Linda Anderson,978-6-96-1860-3,Chemistry,true
+B0903,Mastering Principles (Vol. 2),Linda Thomas,978-7-14-1566-4,Literature,true
+B0904,Digital Networks (Vol. 3),James Hernandez,978-7-48-5376-7,Engineering,true
+B0905,Global History,Elizabeth Hernandez,978-8-55-3395-1,Chemistry,true
+B0906,Global Systems (Vol. 1),Joseph White,978-0-36-9484-2,Computer Science,true
+B0907,Beautiful Art (Vol. 1),Linda Hernandez,978-1-34-2322-5,Chemistry,true
+B0908,Silent Database (Vol. 2),Karen Jones,978-4-77-1913-0,History,true
+B0909,Lost Networks (Vol. 3),Jessica Jackson,978-8-78-4357-5,History,true
+B0910,Computational Networks (Vol. 3),Thomas Jones,978-3-42-4334-5,Computer Science,true
+B0911,Dark Networks (Vol. 3),Barbara Hernandez,978-1-60-3197-7,Computer Science,true
+B0912,Ultimate Legends (Vol. 2),William Moore,978-2-36-7532-8,Physics,true
+B0913,Global Engines (Vol. 1),Linda Garcia,978-8-50-9956-5,Computer Science,true
+B0914,Golden Art (Vol. 3),Susan Brown,978-2-69-1508-6,Fiction,true
+B0915,Introduction to Chemistry,Elizabeth Jones,978-2-1-8454-0,Literature,true
+B0916,Beautiful Physics,Linda Williams,978-3-11-5324-5,History,true
+B0917,Modern Systems (Vol. 2),William Martinez,978-0-59-5636-3,Business,true
+B0918,Dark Science (Vol. 3),Thomas Martin,978-8-22-4531-3,Computer Science,true
+B0919,Advanced History,Charles Jones,978-2-42-6371-6,Literature,true
+B0920,Lost Dreams (Vol. 3),Karen Wilson,978-0-52-3989-6,Computer Science,true
+B0921,Introduction to Chronicles (Vol. 1),Mary Thomas,978-3-69-3139-3,Engineering,true
+B0922,Dark Database (Vol. 2),Patricia Martin,978-7-97-8470-3,Computer Science,true
+B0923,Practical Art,Thomas Moore,978-3-33-9474-0,Chemistry,true
+B0924,Practical Principles (Vol. 1),Charles Martin,978-3-81-3945-4,Business,true
+B0925,Silent Chronicles (Vol. 1),William Moore,978-3-83-8058-2,Physics,true
+B0926,Quantum Science (Vol. 2),David Martin,978-1-14-0907-7,Literature,true
+B0927,Modern Universe (Vol. 1),Linda Thompson,978-7-83-0846-7,Engineering,true
+B0928,Beautiful Legends (Vol. 3),Elizabeth Jackson,978-4-76-2563-7,Biography,true
+B0929,Practical History (Vol. 3),James Johnson,978-2-17-9437-4,Biography,true
+B0930,Forgotten Physics (Vol. 3),Karen Miller,978-4-9-1207-6,Mathematics,true
+B0931,Designing Art (Vol. 3),Jennifer Jackson,978-0-49-4004-6,Physics,true
+B0932,Global Chemistry (Vol. 2),William Johnson,978-1-80-9481-3,Computer Science,true
+B0933,Beautiful Algorithms (Vol. 1),Karen Moore,978-0-31-9895-0,Business,true
+B0934,Lost Networks,James Thomas,978-4-13-5292-5,Physics,true
+B0935,Dark Physics (Vol. 3),Susan Brown,978-0-43-4679-6,Fiction,true
+B0936,Advanced Physics (Vol. 1),Karen Thompson,978-0-57-3606-4,Chemistry,true
+B0937,Designing Universe (Vol. 2),Sarah Garcia,978-4-15-4596-5,History,true
+B0938,Advanced Networks (Vol. 2),Robert White,978-8-65-9163-1,History,true
+B0939,Ancient Whispers,William Johnson,978-1-54-3967-5,Fiction,true
+B0940,Golden Principles (Vol. 2),Richard Martinez,978-8-32-1084-8,Literature,true
+B0941,Ancient Future (Vol. 2),James Martinez,978-5-24-2870-4,Physics,true
+B0942,Computational Art (Vol. 2),Joseph Thomas,978-1-32-8757-2,Computer Science,true
+B0943,Silent Secrets (Vol. 3),Charles Williams,978-8-73-4830-3,Computer Science,true
+B0944,Lost Secrets (Vol. 2),Michael Hernandez,978-4-84-9336-4,Physics,true
+B0945,Digital Art (Vol. 3),James Anderson,978-7-95-1094-5,Engineering,true
+B0946,Beautiful Journey (Vol. 3),John Williams,978-7-13-5559-1,Mathematics,true
+B0947,Dark Legends (Vol. 1),Robert Miller,978-0-62-2295-0,Engineering,true
+B0948,Computational Whispers (Vol. 1),Jessica Moore,978-5-52-8777-8,Literature,true
+B0949,Practical Chronicles (Vol. 1),Robert Moore,978-7-61-1462-5,Mathematics,true
+B0950,Computational History (Vol. 2),Elizabeth Miller,978-6-17-9503-8,History,true
+B0951,Modern History (Vol. 3),Elizabeth Wilson,978-5-79-2077-7,Physics,true
+B0952,Advanced Whispers,John Smith,978-7-37-7135-2,Fiction,true
+B0953,Silent Principles (Vol. 1),William Williams,978-8-75-7926-5,Business,true
+B0954,Modern Art (Vol. 3),Joseph Martinez,978-0-82-7955-1,Biography,true
+B0955,Practical Chemistry (Vol. 2),Robert Moore,978-6-43-2221-2,Mathematics,true
+B0956,Ancient Art (Vol. 3),Patricia Miller,978-7-90-8747-1,Chemistry,true
+B0957,Forgotten Chemistry,Jennifer Taylor,978-7-88-5194-2,Physics,true
+B0958,Golden Dreams (Vol. 2),Susan Williams,978-5-43-8920-5,Mathematics,true
+B0959,Hidden Database (Vol. 2),James Garcia,978-4-9-4301-0,Physics,true
+B0960,Designing Secrets (Vol. 3),John Johnson,978-8-98-0701-5,Fiction,true
+B0961,Advanced Engines (Vol. 3),Patricia White,978-5-30-5274-7,Physics,true
+B0962,Designing Principles (Vol. 2),Susan Williams,978-5-27-5918-6,Fiction,true
+B0963,Introduction to Engines (Vol. 3),David Davis,978-2-83-7138-5,Literature,true
+B0964,Introduction to Science (Vol. 3),Linda Taylor,978-3-46-7722-3,Engineering,true
+B0965,Designing Engines (Vol. 3),Michael Moore,978-7-38-2036-4,History,true
+B0966,Quantum Database (Vol. 1),Barbara Williams,978-2-62-8646-4,Literature,true
+B0967,Silent Art (Vol. 2),Jessica Miller,978-8-88-3081-5,Computer Science,true
+B0968,Hidden Systems (Vol. 2),Susan Anderson,978-6-14-2500-4,Fiction,true
+B0969,Hidden Science (Vol. 1),Patricia Williams,978-1-17-5473-1,Literature,true
+B0970,Mastering Chronicles (Vol. 2),Elizabeth Rodriguez,978-8-53-0795-5,Mathematics,true
+B0971,Computational Physics (Vol. 1),Joseph Johnson,978-4-36-0541-5,Literature,true
+B0972,Silent Journey (Vol. 3),John Jones,978-3-92-8466-4,Mathematics,true
+B0973,Dark Patterns (Vol. 3),Sarah Taylor,978-7-8-6916-5,Biography,true
+B0974,Ultimate Legends (Vol. 3),Richard Jackson,978-2-56-9621-1,Biography,true
+B0975,Digital History (Vol. 1),Patricia White,978-6-25-9352-6,Biography,true
+B0976,Modern History (Vol. 1),Robert Rodriguez,978-4-28-4173-1,Chemistry,true
+B0977,Computational Patterns (Vol. 2),Linda Taylor,978-8-75-9995-5,Business,true
+B0978,Mastering Art (Vol. 2),Jessica Rodriguez,978-5-37-8708-1,Physics,true
+B0979,Computational Chemistry (Vol. 3),Michael Smith,978-1-65-3716-3,Literature,true
+B0980,Quantum Chronicles (Vol. 3),Thomas Moore,978-2-53-2112-2,Engineering,true
+B0981,Global Systems (Vol. 3),Karen Hernandez,978-8-34-7232-5,Computer Science,true
+B0982,Mastering Journey (Vol. 1),Jessica Smith,978-6-23-6716-2,Literature,true
+B0983,Silent History (Vol. 3),James Johnson,978-6-19-3928-0,Biography,true
+B0984,Computational Database (Vol. 2),Elizabeth Garcia,978-6-33-6218-4,History,true
+B0985,Ancient Art (Vol. 2),Mary Moore,978-1-87-6772-7,Literature,true
+B0986,Designing Dreams (Vol. 2),Mary Martin,978-8-13-7508-7,Mathematics,true
+B0987,Global Legends (Vol. 3),Thomas Thomas,978-6-83-6526-6,Engineering,true
+B0988,Mastering Chemistry (Vol. 2),Charles Williams,978-5-23-9661-4,Fiction,true
+B0989,Dark Patterns (Vol. 2),Thomas White,978-1-89-5507-4,Chemistry,true
+B0990,Global Universe,Sarah Moore,978-2-32-0703-5,Physics,true
+B0991,Golden Engines (Vol. 1),Barbara Jackson,978-1-33-6014-3,Computer Science,true
+B0992,Practical Networks (Vol. 2),William White,978-3-49-1792-5,Chemistry,true
+B0993,Computational Patterns (Vol. 1),Robert Garcia,978-0-41-7017-7,Biography,true
+B0994,Modern Art (Vol. 1),David Miller,978-7-70-9028-7,Engineering,true
+B0995,Lost Dreams (Vol. 1),Elizabeth Wilson,978-3-66-4339-2,Engineering,true
+B0996,Lost Algorithms (Vol. 3),John Williams,978-8-70-0261-4,Physics,true
+B0997,Ancient Engines (Vol. 1),Barbara Brown,978-4-87-8858-7,Literature,true
+B0998,Forgotten Art (Vol. 3),Jennifer Jackson,978-5-53-6985-2,Business,true
+B0999,Introduction to Chemistry (Vol. 1),Sarah Brown,978-6-8-0591-6,Biography,true
+B1000,Designing Database (Vol. 3),Mary Thompson,978-3-48-6699-5,Chemistry,true
+B1001,Dark Universe (Vol. 1),Sarah Davis,978-2-29-5517-8,Physics,true
+B1002,Advanced Dreams (Vol. 1),Charles White,978-5-30-2529-5,Literature,true
+B1003,Introduction to Engines (Vol. 2),Elizabeth White,978-8-87-9369-7,Biography,true
+B1004,Dark Physics (Vol. 1),Jessica Brown,978-3-22-7939-5,Computer Science,true
+B1005,Mastering Journey (Vol. 3),James Thomas,978-0-2-5067-4,Engineering,true
+B1006,Modern Patterns (Vol. 1),Robert White,978-6-15-5015-5,Engineering,true
+B1007,Digital Dreams (Vol. 3),Charles Smith,978-0-88-0561-4,History,true
+B1008,Golden History (Vol. 3),Thomas Jones,978-3-90-2546-0,History,true
+B1009,Introduction to Future (Vol. 3),Thomas Thompson,978-5-16-0649-6,Biography,true
+B1010,Hidden Algorithms (Vol. 1),Joseph Thomas,978-8-98-2612-5,Literature,true
+B1011,Designing Networks,Robert Jones,978-3-79-4156-7,Physics,true
+B1012,Advanced Secrets (Vol. 2),Linda Jackson,978-6-69-3231-6,Literature,true
+B1013,Modern Physics (Vol. 3),Thomas Martin,978-8-51-0080-6,History,true
+B1014,Practical Art (Vol. 2),David Williams,978-3-53-3942-3,Chemistry,true
+B1015,Forgotten Secrets (Vol. 1),Linda Anderson,978-4-77-6338-8,Chemistry,true
+B1016,Silent Principles (Vol. 2),John Anderson,978-5-88-6225-6,Mathematics,true
+B1017,Golden Algorithms (Vol. 1),William Johnson,978-6-31-6747-8,Literature,true
+B1018,Computational Engines (Vol. 1),Joseph Martinez,978-1-68-7918-6,History,true
+B1019,Practical Physics (Vol. 2),Jessica Moore,978-5-49-3693-5,History,true
+B1020,Global Dreams (Vol. 1),Jessica Thomas,978-0-63-6342-5,History,true
+B1021,Silent Legends (Vol. 3),John Davis,978-5-86-1899-7,Literature,true
+B1022,Quantum Dreams (Vol. 2),Sarah Jackson,978-2-94-1283-4,Mathematics,true
+B1023,Digital Whispers (Vol. 2),Richard Taylor,978-0-47-6163-1,Fiction,true
+B1024,Designing Science (Vol. 3),Barbara Rodriguez,978-0-72-4171-4,Mathematics,true
+B1025,Practical Universe (Vol. 2),James Martin,978-0-3-1176-3,Engineering,true
+B1026,Quantum Patterns (Vol. 1),Robert Thomas,978-2-6-0381-3,Literature,true
+B1027,Beautiful Engines (Vol. 1),Mary Davis,978-0-54-5214-5,Engineering,true
+B1028,Hidden Whispers (Vol. 1),Charles Thomas,978-1-7-7058-1,Fiction,true
+B1029,Introduction to Chemistry (Vol. 3),David Taylor,978-7-60-6250-6,History,true
+B1030,Silent Engines (Vol. 2),Patricia Thomas,978-0-6-0030-0,Computer Science,true
+B1031,Ultimate Systems (Vol. 3),Barbara Davis,978-2-92-5251-4,Physics,true
+B1032,Ancient Whispers (Vol. 2),Mary Hernandez,978-5-88-8387-2,Physics,true
+B1033,Golden Science (Vol. 3),William Williams,978-2-53-8002-0,Business,true
+B1034,Computational Engines (Vol. 3),Joseph Thomas,978-1-75-9610-5,Fiction,true
+B1035,Ancient Physics (Vol. 1),James Davis,978-5-93-8657-8,Computer Science,true
+B1036,Ultimate Algorithms (Vol. 1),Joseph Martin,978-8-78-9498-4,Engineering,true
+B1037,Silent Secrets (Vol. 2),Robert Jackson,978-6-57-7415-4,Fiction,true
+B1038,Quantum Systems (Vol. 1),Richard Martin,978-5-32-5403-4,Chemistry,true
+B1039,Ancient Chemistry (Vol. 2),Robert Hernandez,978-6-57-3822-5,Physics,true
+B1040,Digital Systems (Vol. 2),Joseph Anderson,978-6-77-5769-3,Computer Science,true
+B1041,Ancient Secrets (Vol. 3),Sarah Martinez,978-1-71-6550-0,History,true
+B1042,Designing Legends (Vol. 1),Susan Smith,978-6-29-4951-1,Physics,true
+B1043,Ultimate Universe (Vol. 2),James Thompson,978-3-82-8107-4,Engineering,true
+B1044,Silent Algorithms (Vol. 3),David Thomas,978-1-78-9440-6,Computer Science,true
+B1045,Dark History (Vol. 2),Jessica Miller,978-3-65-3050-2,Chemistry,true
+B1046,Computational Chemistry (Vol. 2),Richard Jackson,978-4-75-1240-2,Mathematics,true
+B1047,Mastering Patterns (Vol. 3),Joseph Taylor,978-4-52-7936-6,Physics,true
+B1048,Practical Patterns (Vol. 3),Karen Hernandez,978-7-19-6629-1,Business,true
+B1049,Practical Journey (Vol. 1),Karen Williams,978-6-29-9442-7,Literature,true
+B1050,Modern Engines (Vol. 3),David Wilson,978-1-12-7251-0,Biography,true
+B1051,Computational Future (Vol. 3),Patricia Martin,978-1-31-2486-0,Physics,true
+B1052,Quantum Art (Vol. 3),Richard Brown,978-0-57-1369-7,Literature,true
+B1053,Computational Legends (Vol. 3),Susan Brown,978-5-65-9492-5,Chemistry,true
+B1054,Designing History (Vol. 1),William Martin,978-0-69-4897-6,Mathematics,true
+B1055,Beautiful Legends (Vol. 1),Karen White,978-7-17-4684-1,Engineering,true
+B1056,Beautiful Networks (Vol. 3),Robert Davis,978-0-28-6631-3,Engineering,true
+B1057,Quantum Networks (Vol. 2),Barbara Moore,978-1-6-4851-6,Mathematics,true
+B1058,Lost Systems (Vol. 2),John Jones,978-1-36-8843-1,Engineering,true
+B1059,Beautiful Journey (Vol. 2),John Rodriguez,978-6-53-4126-8,Business,true
+B1060,Hidden Art (Vol. 2),Robert Davis,978-7-73-2817-6,Biography,true
+B1061,Golden Secrets (Vol. 1),Mary Martinez,978-5-98-9281-1,Biography,true
+B1062,Golden Art (Vol. 2),Barbara Jones,978-2-82-0209-8,Physics,true
+B1063,Computational Science (Vol. 3),Richard White,978-2-91-1378-2,Mathematics,true
+B1064,Golden Legends (Vol. 2),Thomas Johnson,978-6-57-7670-7,Literature,true
+B1065,Practical Chemistry (Vol. 3),Michael Jones,978-6-16-7180-6,Physics,true
+B1066,Dark Future (Vol. 3),Charles Garcia,978-0-35-6125-0,Physics,true
+B1067,Practical Legends (Vol. 3),Richard Jackson,978-3-2-3927-2,Physics,true
+B1068,Ultimate Chronicles (Vol. 2),Barbara Anderson,978-2-77-2703-4,History,true
+B1069,Hidden Database (Vol. 1),Linda Thompson,978-0-94-8682-6,Computer Science,true
+B1070,Ultimate Chemistry (Vol. 2),Michael Smith,978-7-3-0676-7,Fiction,true
+B1071,Golden Physics (Vol. 2),Barbara Anderson,978-8-88-5207-7,Mathematics,true
+B1072,Mastering Whispers (Vol. 1),Mary Thompson,978-8-42-8077-3,History,true
+B1073,Practical Systems (Vol. 2),Thomas Taylor,978-1-8-9189-1,Chemistry,true
+B1074,Advanced Algorithms (Vol. 2),Barbara Jackson,978-2-0-5139-6,Engineering,true
+B1075,Beautiful Future (Vol. 2),Jennifer Brown,978-8-62-5986-5,Physics,true
+B1076,Practical Art (Vol. 3),Karen Thompson,978-5-42-0944-7,Mathematics,true
+B1077,Hidden Dreams (Vol. 1),Karen Brown,978-6-11-2891-2,Business,true
+B1078,Quantum Future (Vol. 3),Elizabeth Garcia,978-2-18-4347-8,Physics,true
+B1079,Practical Algorithms (Vol. 2),Jennifer Jones,978-5-21-5574-2,Mathematics,true
+B1080,Beautiful Science (Vol. 1),Karen Thomas,978-4-71-5689-6,Literature,true
+B1081,Computational Whispers (Vol. 3),Patricia Martinez,978-2-34-5504-5,Biography,true
+B1082,Lost Engines (Vol. 3),Linda Martin,978-1-45-1900-0,Biography,true
+B1083,Quantum Chronicles (Vol. 1),Elizabeth Garcia,978-3-11-9867-5,Biography,true
+B1084,Forgotten Engines (Vol. 3),Robert Jones,978-1-33-8021-1,History,true
+B1085,Ultimate History (Vol. 2),Patricia Moore,978-1-39-1542-5,Physics,true
+B1086,Ultimate Secrets (Vol. 2),Richard Brown,978-7-31-8730-5,Physics,true
+B1087,Dark Systems (Vol. 1),Susan Brown,978-6-94-4393-7,History,true
+B1088,Digital Science,Charles Hernandez,978-5-28-1927-6,Literature,true
+B1089,Global Whispers (Vol. 1),Charles Martinez,978-8-88-8978-7,Engineering,true
+B1090,Digital Engines,Sarah Jackson,978-7-0-6169-5,History,true
+B1091,Beautiful Chronicles (Vol. 1),Patricia Davis,978-5-72-4950-2,Computer Science,true
+B1092,Introduction to Database (Vol. 1),Michael Smith,978-1-71-8763-0,Chemistry,true
+B1093,Quantum Journey (Vol. 1),Elizabeth Taylor,978-3-88-4935-3,Biography,true
+B1094,Golden Database (Vol. 3),William Moore,978-1-31-6761-8,Fiction,true
+B1095,Quantum Legends (Vol. 1),Karen White,978-4-25-2357-8,Business,true
+B1096,Modern Universe (Vol. 2),Joseph Wilson,978-8-56-1417-8,Physics,true
+B1097,Designing Algorithms (Vol. 3),Patricia Brown,978-1-18-1686-4,Chemistry,true
+B1098,Ancient Networks,Elizabeth Brown,978-0-30-8509-5,Biography,true
+B1099,Digital Database (Vol. 1),Sarah Jones,978-8-39-1073-8,Business,true
+B1100,Dark Networks (Vol. 1),William Brown,978-4-67-3346-2,Chemistry,true
